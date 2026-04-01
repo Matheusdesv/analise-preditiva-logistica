@@ -22,5 +22,6 @@ Neste projeto, identifiquei que o modelo inicial ignorava os atrasos por serem a
 ### Visualização de Erros (Matriz de Confusão)
 <img width="800" height="600" alt="Figure_2" src="https://github.com/user-attachments/assets/fa27b8aa-b500-44bd-9044-88115792ff0e" />
 
+📊 Dashboard: O arquivo fonte do Power BI (.pbix) está disponível no repositório para consulta das fórmulas DAX e modelagem de dados."
 
 **Formação:** Tecnólogo em Ciência de Dados - Mackenzie (2025)
