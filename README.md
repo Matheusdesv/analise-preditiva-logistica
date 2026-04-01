@@ -22,6 +22,20 @@ Neste projeto, identifiquei que o modelo inicial ignorava os atrasos por serem a
 ### Visualização de Erros (Matriz de Confusão)
 <img width="800" height="600" alt="Figure_2" src="https://github.com/user-attachments/assets/fa27b8aa-b500-44bd-9044-88115792ff0e" />
 
-📊 Dashboard: O arquivo fonte do Power BI (.pbix) está disponível no repositório para consulta das fórmulas DAX e modelagem de dados."
+## 📊 Business Intelligence (Power BI)
+
+A etapa final consistiu na criação de um dashboard estratégico para monitorização dos KPIs logísticos em tempo real.
+
+### 📌 Principais Indicadores (KPIs):
+* **OTIF (On-Time In Full):** Percentual de entregas feitas no prazo e sem avarias.
+* **Lead Time Médio:** Tempo médio de ciclo do pedido até à entrega final.
+* **Análise de Custos:** Visibilidade total sobre o gasto com fretes por transportadora.
+
+### 🧠 Diferenciais Técnicos no Power BI:
+* **Modelagem Star Schema:** Estruturação eficiente das tabelas para performance.
+* **DAX Avançado:** Criação de medidas dinâmicas para análise de tendências.
+* **Storytelling:** Visuals focados na tomada de decisão executiva.
+
+<img width="1484" height="834" alt="image" src="https://github.com/user-attachments/assets/204b07be-c7a1-4a9c-92dc-a22fa9adb071" />
 
 **Formação:** Tecnólogo em Ciência de Dados - Mackenzie (2025)
