@@ -1,0 +1,1001 @@
+ID_Pedido;Data_Pedido;Prazo_Prometido;Data_Entrega_Real;Origem;Destino;Transportadora;Status;Peso_KG;Valor_Frete
+PED-10000;01/01/2025;10/01/2025;07/01/2025;São Paulo;Santo André;JundiaíCargas;Entregue;21.58;55.95
+PED-10001;01/01/2025;05/01/2025;10/01/2025;São Paulo;Atibaia;JundiaíCargas;Atrasado;13.85;77.91
+PED-10002;01/01/2025;07/01/2025;06/01/2025;São Paulo;Campinas;TotalLog;Entregue;47.33;143.75
+PED-10003;02/01/2025;07/01/2025;09/01/2025;Osasco;Atibaia;TotalLog;Atrasado;27.35;75.8
+PED-10004;02/01/2025;09/01/2025;07/01/2025;Osasco;Jundiaí;RápidoSP;Entregue;39.83;119.59
+PED-10005;02/01/2025;07/01/2025;06/01/2025;São Paulo;Ribeirão Preto;LogExpress;Entregue;39.49;118.92
+PED-10006;02/01/2025;06/01/2025;;São Paulo;Ribeirão Preto;JundiaíCargas;Extraviado;4.51;36.9
+PED-10007;03/01/2025;06/01/2025;05/01/2025;São Paulo;Jundiaí;JundiaíCargas;Entregue;44.1;127.65
+PED-10008;04/01/2025;09/01/2025;09/01/2025;Guarulhos;Jundiaí;JundiaíCargas;Entregue;36.92;119.13
+PED-10009;04/01/2025;11/01/2025;16/01/2025;Osasco;Atibaia;JundiaíCargas;Atrasado;3.21;24.38
+PED-10010;04/01/2025;11/01/2025;09/01/2025;Guarulhos;Sorocaba;RápidoSP;Entregue;47.29;121.35
+PED-10011;05/01/2025;15/01/2025;06/01/2025;Osasco;Ribeirão Preto;JundiaíCargas;Entregue;33.9;99.73
+PED-10012;05/01/2025;09/01/2025;06/01/2025;Osasco;Atibaia;LogExpress;Entregue;44.45;122.3
+PED-10013;05/01/2025;15/01/2025;;Guarulhos;Atibaia;JundiaíCargas;Extraviado;5.99;23.45
+PED-10014;06/01/2025;13/01/2025;13/01/2025;São Paulo;Sorocaba;TotalLog;Entregue;18.6;55.7
+PED-10015;06/01/2025;15/01/2025;22/01/2025;Osasco;Sorocaba;LogExpress;Atrasado;31.15;81.51
+PED-10016;07/01/2025;14/01/2025;08/01/2025;Guarulhos;Sorocaba;JundiaíCargas;Entregue;18.6;77.16
+PED-10017;07/01/2025;17/01/2025;12/01/2025;Guarulhos;Campinas;RápidoSP;Entregue;9.18;67.83
+PED-10018;08/01/2025;18/01/2025;;Osasco;Atibaia;RápidoSP;Extraviado;28.16;88.0
+PED-10019;08/01/2025;12/01/2025;10/01/2025;São Paulo;Campinas;JundiaíCargas;Entregue;3.82;52.41
+PED-10020;09/01/2025;12/01/2025;12/01/2025;Osasco;Santo André;TotalLog;Entregue;35.61;108.19
+PED-10021;10/01/2025;19/01/2025;19/01/2025;Osasco;Santo André;RápidoSP;Entregue;10.63;40.38
+PED-10022;10/01/2025;18/01/2025;17/01/2025;São Paulo;Atibaia;LogExpress;Entregue;49.07;135.82
+PED-10023;11/01/2025;18/01/2025;17/01/2025;Guarulhos;Jundiaí;TotalLog;Entregue;12.31;69.2
+PED-10024;11/01/2025;14/01/2025;14/01/2025;Guarulhos;Sorocaba;RápidoSP;Entregue;6.12;24.89
+PED-10025;11/01/2025;15/01/2025;16/01/2025;São Paulo;Campinas;TotalLog;Atrasado;24.19;61.11
+PED-10026;13/01/2025;19/01/2025;17/01/2025;Guarulhos;Santo André;RápidoSP;Entregue;46.99;133.9
+PED-10027;13/01/2025;16/01/2025;14/01/2025;Guarulhos;Atibaia;RápidoSP;Entregue;29.22;99.89
+PED-10028;13/01/2025;20/01/2025;15/01/2025;São Paulo;Jundiaí;TotalLog;Entregue;47.98;149.94
+PED-10029;13/01/2025;16/01/2025;16/01/2025;São Paulo;Atibaia;JundiaíCargas;Entregue;10.88;66.79
+PED-10030;14/01/2025;19/01/2025;26/01/2025;Guarulhos;Jundiaí;JundiaíCargas;Atrasado;37.38;117.98
+PED-10031;14/01/2025;24/01/2025;30/01/2025;Osasco;Atibaia;TotalLog;Atrasado;11.66;58.32
+PED-10032;14/01/2025;24/01/2025;17/01/2025;Guarulhos;Sorocaba;RápidoSP;Entregue;17.96;69.89
+PED-10033;14/01/2025;21/01/2025;19/01/2025;São Paulo;Sorocaba;RápidoSP;Entregue;13.73;50.46
+PED-10034;15/01/2025;20/01/2025;19/01/2025;Osasco;Jundiaí;RápidoSP;Entregue;34.17;101.26
+PED-10035;15/01/2025;24/01/2025;21/01/2025;Osasco;Atibaia;RápidoSP;Entregue;14.22;59.31
+PED-10036;15/01/2025;25/01/2025;;Osasco;Sorocaba;RápidoSP;Extraviado;3.64;41.29
+PED-10037;16/01/2025;20/01/2025;19/01/2025;Osasco;Atibaia;JundiaíCargas;Entregue;17.59;71.4
+PED-10038;16/01/2025;26/01/2025;21/01/2025;Osasco;Atibaia;RápidoSP;Entregue;24.57;88.74
+PED-10039;17/01/2025;25/01/2025;21/01/2025;Osasco;Sorocaba;TotalLog;Entregue;26.57;98.46
+PED-10040;17/01/2025;26/01/2025;;Osasco;Ribeirão Preto;RápidoSP;Extraviado;6.57;43.31
+PED-10041;17/01/2025;25/01/2025;22/01/2025;São Paulo;Santo André;RápidoSP;Entregue;35.64;113.42
+PED-10042;17/01/2025;25/01/2025;22/01/2025;Osasco;Santo André;JundiaíCargas;Entregue;34.08;102.7
+PED-10043;19/01/2025;23/01/2025;21/01/2025;Guarulhos;Atibaia;LogExpress;Entregue;26.88;83.33
+PED-10044;20/01/2025;25/01/2025;24/01/2025;Osasco;Santo André;LogExpress;Entregue;14.97;54.07
+PED-10045;20/01/2025;28/01/2025;26/01/2025;Osasco;Campinas;RápidoSP;Entregue;31.24;78.14
+PED-10046;21/01/2025;30/01/2025;26/01/2025;Osasco;Sorocaba;JundiaíCargas;Entregue;40.1;129.93
+PED-10047;21/01/2025;31/01/2025;31/01/2025;Osasco;Santo André;RápidoSP;Entregue;47.3;126.02
+PED-10048;21/01/2025;28/01/2025;25/01/2025;Osasco;Ribeirão Preto;LogExpress;Entregue;40.54;114.07
+PED-10049;22/01/2025;31/01/2025;04/02/2025;São Paulo;Santo André;JundiaíCargas;Atrasado;47.07;128.64
+PED-10050;22/01/2025;25/01/2025;01/02/2025;Guarulhos;Atibaia;TotalLog;Atrasado;3.75;55.43
+PED-10051;23/01/2025;02/02/2025;05/02/2025;Osasco;Jundiaí;TotalLog;Atrasado;44.65;117.64
+PED-10052;23/01/2025;27/01/2025;24/01/2025;Osasco;Santo André;JundiaíCargas;Entregue;23.16;86.54
+PED-10053;23/01/2025;31/01/2025;31/01/2025;São Paulo;Jundiaí;TotalLog;Entregue;4.47;20.22
+PED-10054;24/01/2025;31/01/2025;30/01/2025;Guarulhos;Sorocaba;JundiaíCargas;Entregue;44.95;115.92
+PED-10055;24/01/2025;01/02/2025;28/01/2025;Guarulhos;Jundiaí;RápidoSP;Entregue;14.77;48.71
+PED-10056;24/01/2025;28/01/2025;31/01/2025;Osasco;Santo André;RápidoSP;Atrasado;47.85;124.24
+PED-10057;25/01/2025;03/02/2025;09/02/2025;Osasco;Ribeirão Preto;LogExpress;Atrasado;5.91;31.7
+PED-10058;26/01/2025;29/01/2025;27/01/2025;Osasco;Campinas;RápidoSP;Entregue;14.16;48.52
+PED-10059;26/01/2025;05/02/2025;05/02/2025;Guarulhos;Ribeirão Preto;RápidoSP;Entregue;35.01;119.88
+PED-10060;26/01/2025;04/02/2025;27/01/2025;São Paulo;Ribeirão Preto;LogExpress;Entregue;25.07;76.21
+PED-10061;26/01/2025;29/01/2025;29/01/2025;Osasco;Campinas;JundiaíCargas;Entregue;43.81;126.09
+PED-10062;27/01/2025;02/02/2025;29/01/2025;Osasco;Sorocaba;RápidoSP;Entregue;26.27;98.87
+PED-10063;27/01/2025;04/02/2025;03/02/2025;São Paulo;Santo André;RápidoSP;Entregue;31.55;102.53
+PED-10064;27/01/2025;06/02/2025;04/02/2025;São Paulo;Sorocaba;RápidoSP;Entregue;15.01;46.77
+PED-10065;28/01/2025;07/02/2025;31/01/2025;Osasco;Atibaia;LogExpress;Entregue;48.49;123.56
+PED-10066;28/01/2025;31/01/2025;31/01/2025;São Paulo;Atibaia;JundiaíCargas;Entregue;27.3;95.79
+PED-10067;28/01/2025;03/02/2025;;Osasco;Jundiaí;LogExpress;Extraviado;7.04;63.18
+PED-10068;29/01/2025;05/02/2025;04/02/2025;Guarulhos;Ribeirão Preto;TotalLog;Entregue;17.66;80.41
+PED-10069;30/01/2025;04/02/2025;08/02/2025;Guarulhos;Sorocaba;RápidoSP;Atrasado;22.47;84.11
+PED-10070;30/01/2025;06/02/2025;01/02/2025;São Paulo;Campinas;TotalLog;Entregue;32.41;107.44
+PED-10071;30/01/2025;09/02/2025;04/02/2025;São Paulo;Sorocaba;JundiaíCargas;Entregue;14.93;73.19
+PED-10072;30/01/2025;09/02/2025;31/01/2025;Guarulhos;Jundiaí;RápidoSP;Entregue;3.62;49.59
+PED-10073;31/01/2025;04/02/2025;05/02/2025;Guarulhos;Santo André;TotalLog;Atrasado;43.65;135.45
+PED-10074;31/01/2025;03/02/2025;01/02/2025;São Paulo;Ribeirão Preto;TotalLog;Entregue;12.0;60.07
+PED-10075;31/01/2025;06/02/2025;06/02/2025;Guarulhos;Ribeirão Preto;TotalLog;Entregue;47.4;120.84
+PED-10076;01/02/2025;06/02/2025;07/02/2025;Guarulhos;Sorocaba;RápidoSP;Atrasado;32.41;108.03
+PED-10077;01/02/2025;08/02/2025;10/02/2025;São Paulo;Jundiaí;RápidoSP;Atrasado;20.88;80.53
+PED-10078;01/02/2025;04/02/2025;02/02/2025;Osasco;Atibaia;RápidoSP;Entregue;17.47;51.85
+PED-10079;02/02/2025;11/02/2025;12/02/2025;São Paulo;Campinas;RápidoSP;Atrasado;32.48;86.19
+PED-10080;02/02/2025;06/02/2025;;Osasco;Santo André;LogExpress;Extraviado;16.65;69.19
+PED-10081;02/02/2025;08/02/2025;06/02/2025;Osasco;Sorocaba;TotalLog;Entregue;29.87;76.76
+PED-10082;03/02/2025;07/02/2025;06/02/2025;Guarulhos;Sorocaba;LogExpress;Entregue;34.99;100.12
+PED-10083;03/02/2025;13/02/2025;14/02/2025;Guarulhos;Campinas;JundiaíCargas;Atrasado;42.17;138.31
+PED-10084;04/02/2025;08/02/2025;05/02/2025;São Paulo;Atibaia;TotalLog;Entregue;22.54;69.48
+PED-10085;04/02/2025;09/02/2025;12/02/2025;São Paulo;Sorocaba;RápidoSP;Atrasado;15.55;51.03
+PED-10086;05/02/2025;15/02/2025;14/02/2025;Guarulhos;Campinas;RápidoSP;Entregue;7.03;26.64
+PED-10087;05/02/2025;12/02/2025;07/02/2025;Guarulhos;Ribeirão Preto;RápidoSP;Entregue;39.57;93.82
+PED-10088;05/02/2025;12/02/2025;16/02/2025;Osasco;Ribeirão Preto;LogExpress;Atrasado;9.0;64.14
+PED-10089;05/02/2025;14/02/2025;07/02/2025;Guarulhos;Campinas;RápidoSP;Entregue;13.37;52.36
+PED-10090;05/02/2025;15/02/2025;13/02/2025;São Paulo;Santo André;TotalLog;Entregue;24.47;67.73
+PED-10091;05/02/2025;15/02/2025;08/02/2025;Guarulhos;Ribeirão Preto;TotalLog;Entregue;48.55;145.07
+PED-10092;05/02/2025;11/02/2025;08/02/2025;Guarulhos;Campinas;JundiaíCargas;Entregue;38.6;126.84
+PED-10093;05/02/2025;15/02/2025;15/02/2025;Guarulhos;Campinas;TotalLog;Entregue;2.84;17.24
+PED-10094;06/02/2025;11/02/2025;08/02/2025;São Paulo;Ribeirão Preto;RápidoSP;Entregue;17.98;50.3
+PED-10095;06/02/2025;15/02/2025;13/02/2025;Guarulhos;Campinas;TotalLog;Entregue;23.07;75.67
+PED-10096;06/02/2025;12/02/2025;17/02/2025;Osasco;Sorocaba;TotalLog;Atrasado;8.73;53.04
+PED-10097;06/02/2025;11/02/2025;10/02/2025;Osasco;Campinas;LogExpress;Entregue;46.24;111.93
+PED-10098;07/02/2025;11/02/2025;09/02/2025;São Paulo;Campinas;TotalLog;Entregue;35.73;94.0
+PED-10099;07/02/2025;14/02/2025;;São Paulo;Campinas;JundiaíCargas;Extraviado;14.62;51.01
+PED-10100;07/02/2025;16/02/2025;11/02/2025;Guarulhos;Campinas;TotalLog;Entregue;48.67;125.82
+PED-10101;07/02/2025;15/02/2025;14/02/2025;Guarulhos;Atibaia;LogExpress;Entregue;42.05;112.51
+PED-10102;08/02/2025;15/02/2025;15/02/2025;São Paulo;Sorocaba;LogExpress;Entregue;34.8;84.95
+PED-10103;08/02/2025;11/02/2025;10/02/2025;Osasco;Campinas;TotalLog;Entregue;33.48;115.42
+PED-10104;08/02/2025;15/02/2025;14/02/2025;Osasco;Jundiaí;TotalLog;Entregue;8.1;37.71
+PED-10105;08/02/2025;15/02/2025;11/02/2025;São Paulo;Jundiaí;LogExpress;Entregue;12.28;41.84
+PED-10106;09/02/2025;19/02/2025;13/02/2025;São Paulo;Jundiaí;RápidoSP;Entregue;2.54;42.94
+PED-10107;10/02/2025;15/02/2025;11/02/2025;Osasco;Ribeirão Preto;TotalLog;Entregue;16.17;64.57
+PED-10108;10/02/2025;20/02/2025;13/02/2025;Osasco;Ribeirão Preto;LogExpress;Entregue;6.76;50.98
+PED-10109;10/02/2025;20/02/2025;19/02/2025;Osasco;Santo André;TotalLog;Entregue;13.39;66.38
+PED-10110;11/02/2025;19/02/2025;25/02/2025;Guarulhos;Atibaia;LogExpress;Atrasado;9.63;67.29
+PED-10111;11/02/2025;19/02/2025;13/02/2025;Osasco;Jundiaí;RápidoSP;Entregue;28.34;87.03
+PED-10112;11/02/2025;20/02/2025;16/02/2025;Osasco;Atibaia;JundiaíCargas;Entregue;2.22;32.95
+PED-10113;11/02/2025;21/02/2025;15/02/2025;São Paulo;Jundiaí;TotalLog;Entregue;16.19;77.66
+PED-10114;11/02/2025;19/02/2025;14/02/2025;Osasco;Santo André;TotalLog;Entregue;17.52;51.23
+PED-10115;12/02/2025;18/02/2025;16/02/2025;Osasco;Sorocaba;JundiaíCargas;Entregue;18.96;54.05
+PED-10116;13/02/2025;19/02/2025;18/02/2025;Guarulhos;Atibaia;JundiaíCargas;Entregue;27.22;91.58
+PED-10117;13/02/2025;22/02/2025;22/02/2025;Guarulhos;Sorocaba;TotalLog;Entregue;8.55;59.24
+PED-10118;13/02/2025;19/02/2025;26/02/2025;Guarulhos;Santo André;RápidoSP;Atrasado;15.43;80.3
+PED-10119;13/02/2025;22/02/2025;17/02/2025;São Paulo;Atibaia;TotalLog;Entregue;46.06;139.67
+PED-10120;14/02/2025;17/02/2025;17/02/2025;São Paulo;Sorocaba;JundiaíCargas;Entregue;20.53;54.79
+PED-10121;14/02/2025;22/02/2025;16/02/2025;Guarulhos;Santo André;LogExpress;Entregue;25.22;67.18
+PED-10122;16/02/2025;26/02/2025;25/02/2025;Guarulhos;Campinas;RápidoSP;Entregue;7.7;51.37
+PED-10123;17/02/2025;26/02/2025;19/02/2025;Osasco;Atibaia;TotalLog;Entregue;23.17;93.49
+PED-10124;17/02/2025;26/02/2025;27/02/2025;Osasco;Sorocaba;TotalLog;Atrasado;16.35;80.77
+PED-10125;17/02/2025;22/02/2025;22/02/2025;Osasco;Santo André;LogExpress;Entregue;0.71;17.77
+PED-10126;17/02/2025;27/02/2025;01/03/2025;Guarulhos;Campinas;LogExpress;Atrasado;37.06;99.51
+PED-10127;17/02/2025;20/02/2025;18/02/2025;Osasco;Atibaia;RápidoSP;Entregue;48.79;130.12
+PED-10128;17/02/2025;22/02/2025;22/02/2025;Osasco;Campinas;RápidoSP;Entregue;16.9;65.73
+PED-10129;18/02/2025;26/02/2025;22/02/2025;Guarulhos;Jundiaí;TotalLog;Entregue;35.42;113.68
+PED-10130;19/02/2025;23/02/2025;23/02/2025;Osasco;Atibaia;TotalLog;Entregue;23.96;64.29
+PED-10131;19/02/2025;01/03/2025;28/02/2025;Guarulhos;Santo André;JundiaíCargas;Entregue;14.85;67.07
+PED-10132;20/02/2025;24/02/2025;21/02/2025;São Paulo;Santo André;TotalLog;Entregue;47.23;122.57
+PED-10133;20/02/2025;02/03/2025;01/03/2025;São Paulo;Atibaia;LogExpress;Entregue;49.04;118.49
+PED-10134;20/02/2025;23/02/2025;23/02/2025;Osasco;Jundiaí;RápidoSP;Entregue;28.9;104.63
+PED-10135;21/02/2025;26/02/2025;25/02/2025;São Paulo;Atibaia;TotalLog;Entregue;7.78;43.9
+PED-10136;21/02/2025;02/03/2025;26/02/2025;São Paulo;Sorocaba;RápidoSP;Entregue;28.48;86.44
+PED-10137;21/02/2025;26/02/2025;25/02/2025;Guarulhos;Santo André;TotalLog;Entregue;45.39;136.08
+PED-10138;22/02/2025;26/02/2025;23/02/2025;Guarulhos;Ribeirão Preto;LogExpress;Entregue;22.38;66.81
+PED-10139;22/02/2025;04/03/2025;04/03/2025;Osasco;Campinas;JundiaíCargas;Entregue;34.61;115.05
+PED-10140;22/02/2025;01/03/2025;26/02/2025;Guarulhos;Santo André;JundiaíCargas;Entregue;36.72;100.76
+PED-10141;22/02/2025;02/03/2025;24/02/2025;Osasco;Jundiaí;RápidoSP;Entregue;45.06;124.83
+PED-10142;22/02/2025;03/03/2025;23/02/2025;Osasco;Ribeirão Preto;LogExpress;Entregue;7.4;28.95
+PED-10143;23/02/2025;27/02/2025;28/02/2025;Guarulhos;Atibaia;LogExpress;Atrasado;27.77;83.21
+PED-10144;24/02/2025;04/03/2025;;Osasco;Santo André;LogExpress;Extraviado;15.75;73.27
+PED-10145;24/02/2025;05/03/2025;01/03/2025;São Paulo;Sorocaba;TotalLog;Entregue;20.38;67.22
+PED-10146;24/02/2025;04/03/2025;27/02/2025;São Paulo;Ribeirão Preto;JundiaíCargas;Entregue;42.12;125.05
+PED-10147;24/02/2025;06/03/2025;03/03/2025;São Paulo;Jundiaí;LogExpress;Entregue;22.58;63.48
+PED-10148;25/02/2025;28/02/2025;27/02/2025;Guarulhos;Jundiaí;TotalLog;Entregue;5.08;50.81
+PED-10149;25/02/2025;01/03/2025;01/03/2025;São Paulo;Ribeirão Preto;RápidoSP;Entregue;3.22;33.63
+PED-10150;25/02/2025;03/03/2025;03/03/2025;Osasco;Campinas;TotalLog;Entregue;32.24;86.83
+PED-10151;25/02/2025;04/03/2025;;Osasco;Santo André;TotalLog;Extraviado;29.38;103.77
+PED-10152;26/02/2025;04/03/2025;06/03/2025;Osasco;Atibaia;LogExpress;Atrasado;11.5;50.69
+PED-10153;27/02/2025;03/03/2025;02/03/2025;Guarulhos;Jundiaí;RápidoSP;Entregue;46.82;124.69
+PED-10154;27/02/2025;08/03/2025;08/03/2025;São Paulo;Sorocaba;JundiaíCargas;Entregue;14.26;58.3
+PED-10155;27/02/2025;03/03/2025;01/03/2025;Guarulhos;Sorocaba;RápidoSP;Entregue;1.62;47.5
+PED-10156;27/02/2025;03/03/2025;01/03/2025;Osasco;Atibaia;RápidoSP;Entregue;27.15;98.8
+PED-10157;28/02/2025;10/03/2025;17/03/2025;São Paulo;Sorocaba;RápidoSP;Atrasado;22.55;71.83
+PED-10158;28/02/2025;05/03/2025;03/03/2025;São Paulo;Campinas;RápidoSP;Entregue;33.74;82.04
+PED-10159;28/02/2025;07/03/2025;06/03/2025;São Paulo;Atibaia;LogExpress;Entregue;4.83;25.97
+PED-10160;28/02/2025;03/03/2025;03/03/2025;Guarulhos;Sorocaba;TotalLog;Entregue;25.83;64.64
+PED-10161;01/03/2025;04/03/2025;02/03/2025;São Paulo;Campinas;JundiaíCargas;Entregue;10.13;63.52
+PED-10162;01/03/2025;09/03/2025;07/03/2025;Guarulhos;Sorocaba;JundiaíCargas;Entregue;16.23;81.83
+PED-10163;01/03/2025;04/03/2025;02/03/2025;São Paulo;Santo André;TotalLog;Entregue;30.45;77.34
+PED-10164;02/03/2025;09/03/2025;15/03/2025;Osasco;Atibaia;JundiaíCargas;Atrasado;47.2;121.71
+PED-10165;03/03/2025;11/03/2025;04/03/2025;Guarulhos;Sorocaba;RápidoSP;Entregue;45.47;144.76
+PED-10166;03/03/2025;11/03/2025;15/03/2025;São Paulo;Sorocaba;LogExpress;Atrasado;18.37;55.15
+PED-10167;03/03/2025;12/03/2025;04/03/2025;Guarulhos;Campinas;RápidoSP;Entregue;7.82;28.88
+PED-10168;03/03/2025;08/03/2025;04/03/2025;São Paulo;Santo André;RápidoSP;Entregue;42.76;130.16
+PED-10169;03/03/2025;09/03/2025;04/03/2025;Osasco;Santo André;LogExpress;Entregue;18.8;75.89
+PED-10170;04/03/2025;13/03/2025;05/03/2025;Osasco;Campinas;JundiaíCargas;Entregue;18.96;75.47
+PED-10171;05/03/2025;10/03/2025;06/03/2025;Osasco;Santo André;LogExpress;Entregue;14.59;76.74
+PED-10172;05/03/2025;10/03/2025;07/03/2025;São Paulo;Ribeirão Preto;TotalLog;Entregue;17.89;49.88
+PED-10173;06/03/2025;11/03/2025;07/03/2025;Guarulhos;Sorocaba;TotalLog;Entregue;48.89;137.93
+PED-10174;06/03/2025;10/03/2025;09/03/2025;Guarulhos;Sorocaba;TotalLog;Entregue;43.78;130.47
+PED-10175;06/03/2025;15/03/2025;12/03/2025;Osasco;Santo André;LogExpress;Entregue;4.84;46.58
+PED-10176;06/03/2025;12/03/2025;12/03/2025;Osasco;Sorocaba;TotalLog;Entregue;36.53;107.5
+PED-10177;07/03/2025;17/03/2025;19/03/2025;Osasco;Santo André;RápidoSP;Atrasado;22.49;69.06
+PED-10178;07/03/2025;12/03/2025;09/03/2025;São Paulo;Campinas;RápidoSP;Entregue;49.63;130.3
+PED-10179;07/03/2025;13/03/2025;;Guarulhos;Atibaia;TotalLog;Extraviado;40.28;121.82
+PED-10180;07/03/2025;17/03/2025;14/03/2025;São Paulo;Campinas;TotalLog;Entregue;14.79;63.2
+PED-10181;08/03/2025;15/03/2025;09/03/2025;Osasco;Atibaia;TotalLog;Entregue;40.38;106.97
+PED-10182;09/03/2025;19/03/2025;19/03/2025;Osasco;Ribeirão Preto;TotalLog;Entregue;48.53;141.62
+PED-10183;09/03/2025;16/03/2025;18/03/2025;São Paulo;Campinas;LogExpress;Atrasado;21.48;91.48
+PED-10184;09/03/2025;12/03/2025;11/03/2025;Osasco;Jundiaí;LogExpress;Entregue;44.87;104.54
+PED-10185;10/03/2025;20/03/2025;11/03/2025;Guarulhos;Ribeirão Preto;RápidoSP;Entregue;7.41;36.75
+PED-10186;10/03/2025;17/03/2025;;Osasco;Sorocaba;JundiaíCargas;Extraviado;29.57;93.21
+PED-10187;11/03/2025;16/03/2025;22/03/2025;Guarulhos;Campinas;RápidoSP;Atrasado;4.76;56.81
+PED-10188;12/03/2025;16/03/2025;15/03/2025;Osasco;Atibaia;LogExpress;Entregue;10.79;60.67
+PED-10189;12/03/2025;22/03/2025;19/03/2025;São Paulo;Santo André;RápidoSP;Entregue;23.99;78.23
+PED-10190;13/03/2025;21/03/2025;20/03/2025;Osasco;Santo André;RápidoSP;Entregue;43.44;109.43
+PED-10191;13/03/2025;20/03/2025;18/03/2025;Osasco;Campinas;LogExpress;Entregue;49.34;135.39
+PED-10192;13/03/2025;22/03/2025;17/03/2025;São Paulo;Campinas;JundiaíCargas;Entregue;3.77;49.45
+PED-10193;15/03/2025;22/03/2025;21/03/2025;Osasco;Ribeirão Preto;LogExpress;Entregue;48.02;136.92
+PED-10194;17/03/2025;27/03/2025;25/03/2025;São Paulo;Campinas;RápidoSP;Entregue;37.93;117.55
+PED-10195;17/03/2025;24/03/2025;29/03/2025;São Paulo;Santo André;LogExpress;Atrasado;4.88;55.75
+PED-10196;17/03/2025;23/03/2025;21/03/2025;Guarulhos;Jundiaí;JundiaíCargas;Entregue;20.77;84.88
+PED-10197;18/03/2025;27/03/2025;21/03/2025;Osasco;Campinas;JundiaíCargas;Entregue;45.76;122.28
+PED-10198;18/03/2025;28/03/2025;23/03/2025;Osasco;Santo André;LogExpress;Entregue;21.02;62.03
+PED-10199;19/03/2025;23/03/2025;20/03/2025;Osasco;Santo André;LogExpress;Entregue;28.01;80.88
+PED-10200;19/03/2025;25/03/2025;01/04/2025;Guarulhos;Campinas;LogExpress;Atrasado;35.66;86.36
+PED-10201;20/03/2025;29/03/2025;29/03/2025;Osasco;Ribeirão Preto;TotalLog;Entregue;37.88;102.93
+PED-10202;20/03/2025;28/03/2025;24/03/2025;Guarulhos;Atibaia;RápidoSP;Entregue;7.28;54.29
+PED-10203;20/03/2025;27/03/2025;24/03/2025;Guarulhos;Atibaia;RápidoSP;Entregue;9.71;59.99
+PED-10204;20/03/2025;27/03/2025;25/03/2025;Osasco;Ribeirão Preto;JundiaíCargas;Entregue;19.4;55.78
+PED-10205;20/03/2025;23/03/2025;21/03/2025;Osasco;Sorocaba;RápidoSP;Entregue;27.92;108.31
+PED-10206;21/03/2025;30/03/2025;30/03/2025;São Paulo;Santo André;TotalLog;Entregue;2.59;26.8
+PED-10207;21/03/2025;28/03/2025;23/03/2025;Guarulhos;Sorocaba;JundiaíCargas;Entregue;41.4;100.65
+PED-10208;21/03/2025;24/03/2025;27/03/2025;Guarulhos;Sorocaba;LogExpress;Atrasado;41.81;119.87
+PED-10209;21/03/2025;24/03/2025;22/03/2025;Guarulhos;Atibaia;LogExpress;Entregue;15.54;63.49
+PED-10210;22/03/2025;01/04/2025;26/03/2025;Guarulhos;Atibaia;JundiaíCargas;Entregue;28.18;99.46
+PED-10211;22/03/2025;29/03/2025;;Guarulhos;Jundiaí;JundiaíCargas;Extraviado;23.44;65.63
+PED-10212;22/03/2025;28/03/2025;26/03/2025;São Paulo;Santo André;JundiaíCargas;Entregue;1.83;14.96
+PED-10213;22/03/2025;30/03/2025;05/04/2025;São Paulo;Jundiaí;TotalLog;Atrasado;0.62;43.17
+PED-10214;22/03/2025;28/03/2025;24/03/2025;Guarulhos;Ribeirão Preto;LogExpress;Entregue;13.5;62.05
+PED-10215;23/03/2025;29/03/2025;25/03/2025;Osasco;Campinas;TotalLog;Entregue;47.82;120.08
+PED-10216;23/03/2025;30/03/2025;30/03/2025;Osasco;Jundiaí;LogExpress;Entregue;41.8;128.75
+PED-10217;23/03/2025;28/03/2025;27/03/2025;Osasco;Campinas;JundiaíCargas;Entregue;23.89;89.23
+PED-10218;23/03/2025;27/03/2025;26/03/2025;Osasco;Sorocaba;TotalLog;Entregue;32.86;118.48
+PED-10219;24/03/2025;27/03/2025;26/03/2025;Guarulhos;Santo André;RápidoSP;Entregue;44.69;108.27
+PED-10220;24/03/2025;31/03/2025;28/03/2025;Osasco;Ribeirão Preto;LogExpress;Entregue;21.15;56.81
+PED-10221;25/03/2025;04/04/2025;02/04/2025;Osasco;Jundiaí;JundiaíCargas;Entregue;24.85;77.1
+PED-10222;25/03/2025;28/03/2025;27/03/2025;Guarulhos;Santo André;JundiaíCargas;Entregue;34.55;107.63
+PED-10223;25/03/2025;02/04/2025;05/04/2025;Osasco;Ribeirão Preto;TotalLog;Atrasado;12.62;50.68
+PED-10224;25/03/2025;30/03/2025;26/03/2025;Osasco;Sorocaba;RápidoSP;Entregue;6.41;25.37
+PED-10225;26/03/2025;30/03/2025;28/03/2025;Osasco;Sorocaba;RápidoSP;Entregue;14.22;65.9
+PED-10226;26/03/2025;02/04/2025;27/03/2025;Osasco;Sorocaba;LogExpress;Entregue;49.72;119.4
+PED-10227;26/03/2025;03/04/2025;02/04/2025;São Paulo;Sorocaba;LogExpress;Entregue;3.8;29.9
+PED-10228;27/03/2025;05/04/2025;31/03/2025;São Paulo;Atibaia;LogExpress;Entregue;37.41;118.04
+PED-10229;27/03/2025;01/04/2025;31/03/2025;São Paulo;Atibaia;TotalLog;Entregue;29.26;89.57
+PED-10230;28/03/2025;03/04/2025;30/03/2025;Osasco;Sorocaba;JundiaíCargas;Entregue;28.5;109.17
+PED-10231;29/03/2025;03/04/2025;01/04/2025;Osasco;Sorocaba;TotalLog;Entregue;43.48;133.52
+PED-10232;30/03/2025;07/04/2025;07/04/2025;Guarulhos;Jundiaí;JundiaíCargas;Entregue;31.59;115.9
+PED-10233;31/03/2025;07/04/2025;;Osasco;Santo André;JundiaíCargas;Extraviado;24.06;83.15
+PED-10234;01/04/2025;06/04/2025;05/04/2025;Guarulhos;Jundiaí;JundiaíCargas;Entregue;34.87;119.0
+PED-10235;01/04/2025;08/04/2025;07/04/2025;Osasco;Sorocaba;RápidoSP;Entregue;6.42;48.59
+PED-10236;01/04/2025;11/04/2025;04/04/2025;São Paulo;Ribeirão Preto;TotalLog;Entregue;25.87;85.66
+PED-10237;02/04/2025;09/04/2025;07/04/2025;Osasco;Atibaia;TotalLog;Entregue;28.98;94.68
+PED-10238;02/04/2025;10/04/2025;03/04/2025;Osasco;Campinas;TotalLog;Entregue;42.34;112.93
+PED-10239;02/04/2025;06/04/2025;03/04/2025;São Paulo;Atibaia;RápidoSP;Entregue;8.56;39.36
+PED-10240;02/04/2025;12/04/2025;18/04/2025;Osasco;Atibaia;RápidoSP;Atrasado;3.4;48.53
+PED-10241;04/04/2025;08/04/2025;05/04/2025;Osasco;Ribeirão Preto;JundiaíCargas;Entregue;16.32;72.87
+PED-10242;04/04/2025;09/04/2025;06/04/2025;Osasco;Ribeirão Preto;RápidoSP;Entregue;43.98;129.26
+PED-10243;04/04/2025;10/04/2025;06/04/2025;Osasco;Atibaia;LogExpress;Entregue;7.21;53.72
+PED-10244;05/04/2025;14/04/2025;14/04/2025;Guarulhos;Campinas;LogExpress;Entregue;8.58;48.8
+PED-10245;05/04/2025;13/04/2025;06/04/2025;Osasco;Sorocaba;LogExpress;Entregue;14.0;49.31
+PED-10246;06/04/2025;10/04/2025;10/04/2025;São Paulo;Sorocaba;TotalLog;Entregue;21.27;67.78
+PED-10247;08/04/2025;17/04/2025;09/04/2025;Guarulhos;Sorocaba;LogExpress;Entregue;45.65;129.16
+PED-10248;08/04/2025;11/04/2025;11/04/2025;Osasco;Ribeirão Preto;RápidoSP;Entregue;18.12;80.97
+PED-10249;08/04/2025;15/04/2025;09/04/2025;Guarulhos;Atibaia;TotalLog;Entregue;14.85;55.64
+PED-10250;08/04/2025;12/04/2025;11/04/2025;Osasco;Santo André;TotalLog;Entregue;26.72;70.03
+PED-10251;08/04/2025;18/04/2025;13/04/2025;Osasco;Ribeirão Preto;LogExpress;Entregue;46.85;136.85
+PED-10252;09/04/2025;17/04/2025;16/04/2025;Osasco;Santo André;JundiaíCargas;Entregue;25.94;97.61
+PED-10253;09/04/2025;16/04/2025;18/04/2025;Osasco;Jundiaí;JundiaíCargas;Atrasado;38.44;94.0
+PED-10254;09/04/2025;18/04/2025;11/04/2025;Guarulhos;Santo André;RápidoSP;Entregue;9.57;32.58
+PED-10255;09/04/2025;17/04/2025;13/04/2025;Osasco;Atibaia;LogExpress;Entregue;5.18;56.42
+PED-10256;09/04/2025;13/04/2025;12/04/2025;Osasco;Sorocaba;RápidoSP;Entregue;37.76;108.35
+PED-10257;09/04/2025;15/04/2025;18/04/2025;Osasco;Santo André;JundiaíCargas;Atrasado;27.41;85.41
+PED-10258;10/04/2025;20/04/2025;12/04/2025;Guarulhos;Ribeirão Preto;JundiaíCargas;Entregue;43.69;116.52
+PED-10259;10/04/2025;13/04/2025;12/04/2025;Guarulhos;Campinas;LogExpress;Entregue;41.43;118.05
+PED-10260;11/04/2025;19/04/2025;15/04/2025;São Paulo;Campinas;JundiaíCargas;Entregue;34.41;105.79
+PED-10261;12/04/2025;18/04/2025;;Osasco;Ribeirão Preto;JundiaíCargas;Extraviado;15.4;63.1
+PED-10262;12/04/2025;16/04/2025;13/04/2025;São Paulo;Sorocaba;JundiaíCargas;Entregue;34.43;98.09
+PED-10263;12/04/2025;22/04/2025;13/04/2025;São Paulo;Santo André;LogExpress;Entregue;34.57;93.14
+PED-10264;12/04/2025;19/04/2025;16/04/2025;Guarulhos;Ribeirão Preto;LogExpress;Entregue;5.24;40.96
+PED-10265;12/04/2025;21/04/2025;20/04/2025;São Paulo;Atibaia;JundiaíCargas;Entregue;29.21;88.28
+PED-10266;13/04/2025;17/04/2025;14/04/2025;São Paulo;Atibaia;JundiaíCargas;Entregue;41.25;114.23
+PED-10267;13/04/2025;18/04/2025;14/04/2025;Osasco;Santo André;TotalLog;Entregue;1.14;49.64
+PED-10268;13/04/2025;16/04/2025;15/04/2025;São Paulo;Jundiaí;LogExpress;Entregue;26.15;84.5
+PED-10269;15/04/2025;18/04/2025;17/04/2025;São Paulo;Jundiaí;RápidoSP;Entregue;18.96;88.75
+PED-10270;15/04/2025;22/04/2025;22/04/2025;Guarulhos;Campinas;RápidoSP;Entregue;24.5;94.4
+PED-10271;16/04/2025;26/04/2025;;São Paulo;Sorocaba;JundiaíCargas;Extraviado;17.35;52.21
+PED-10272;17/04/2025;21/04/2025;22/04/2025;Guarulhos;Campinas;JundiaíCargas;Atrasado;45.58;110.8
+PED-10273;18/04/2025;22/04/2025;22/04/2025;Osasco;Sorocaba;TotalLog;Entregue;5.57;50.14
+PED-10274;18/04/2025;24/04/2025;19/04/2025;Guarulhos;Sorocaba;TotalLog;Entregue;8.15;32.29
+PED-10275;18/04/2025;23/04/2025;21/04/2025;São Paulo;Ribeirão Preto;LogExpress;Entregue;11.45;62.23
+PED-10276;18/04/2025;27/04/2025;02/05/2025;São Paulo;Sorocaba;RápidoSP;Atrasado;9.83;65.17
+PED-10277;19/04/2025;29/04/2025;22/04/2025;Osasco;Ribeirão Preto;TotalLog;Entregue;44.9;109.01
+PED-10278;19/04/2025;27/04/2025;30/04/2025;Guarulhos;Sorocaba;RápidoSP;Atrasado;30.86;83.31
+PED-10279;19/04/2025;28/04/2025;23/04/2025;São Paulo;Atibaia;TotalLog;Entregue;41.66;116.42
+PED-10280;19/04/2025;24/04/2025;23/04/2025;Osasco;Ribeirão Preto;JundiaíCargas;Entregue;26.52;95.55
+PED-10281;19/04/2025;28/04/2025;01/05/2025;São Paulo;Santo André;TotalLog;Atrasado;26.84;104.13
+PED-10282;19/04/2025;23/04/2025;21/04/2025;Guarulhos;Sorocaba;TotalLog;Entregue;27.78;83.11
+PED-10283;20/04/2025;30/04/2025;27/04/2025;Guarulhos;Santo André;LogExpress;Entregue;37.94;127.75
+PED-10284;20/04/2025;29/04/2025;29/04/2025;São Paulo;Sorocaba;JundiaíCargas;Entregue;6.14;46.96
+PED-10285;20/04/2025;27/04/2025;27/04/2025;Osasco;Ribeirão Preto;JundiaíCargas;Entregue;23.29;75.25
+PED-10286;20/04/2025;23/04/2025;23/04/2025;Osasco;Atibaia;LogExpress;Entregue;4.28;23.82
+PED-10287;20/04/2025;28/04/2025;26/04/2025;Osasco;Atibaia;RápidoSP;Entregue;41.03;119.03
+PED-10288;21/04/2025;27/04/2025;25/04/2025;Osasco;Santo André;JundiaíCargas;Entregue;46.21;108.65
+PED-10289;21/04/2025;01/05/2025;23/04/2025;São Paulo;Santo André;JundiaíCargas;Entregue;24.24;67.04
+PED-10290;22/04/2025;02/05/2025;02/05/2025;Osasco;Campinas;LogExpress;Entregue;15.92;58.29
+PED-10291;22/04/2025;28/04/2025;;Osasco;Campinas;RápidoSP;Extraviado;18.45;88.39
+PED-10292;22/04/2025;30/04/2025;28/04/2025;Osasco;Jundiaí;JundiaíCargas;Entregue;40.94;108.1
+PED-10293;23/04/2025;27/04/2025;26/04/2025;Guarulhos;Campinas;LogExpress;Entregue;44.54;122.97
+PED-10294;23/04/2025;01/05/2025;01/05/2025;São Paulo;Ribeirão Preto;JundiaíCargas;Entregue;30.08;104.82
+PED-10295;23/04/2025;01/05/2025;29/04/2025;Osasco;Campinas;TotalLog;Entregue;38.3;96.12
+PED-10296;23/04/2025;26/04/2025;25/04/2025;Osasco;Ribeirão Preto;RápidoSP;Entregue;17.43;70.19
+PED-10297;23/04/2025;02/05/2025;30/04/2025;Guarulhos;Sorocaba;TotalLog;Entregue;35.64;86.79
+PED-10298;23/04/2025;30/04/2025;28/04/2025;Osasco;Ribeirão Preto;RápidoSP;Entregue;1.92;49.8
+PED-10299;23/04/2025;29/04/2025;25/04/2025;Osasco;Ribeirão Preto;LogExpress;Entregue;40.82;131.28
+PED-10300;24/04/2025;28/04/2025;25/04/2025;São Paulo;Ribeirão Preto;JundiaíCargas;Entregue;11.51;42.79
+PED-10301;24/04/2025;04/05/2025;01/05/2025;Guarulhos;Jundiaí;JundiaíCargas;Entregue;42.91;132.88
+PED-10302;25/04/2025;29/04/2025;27/04/2025;Guarulhos;Campinas;LogExpress;Entregue;7.55;45.41
+PED-10303;25/04/2025;01/05/2025;28/04/2025;Guarulhos;Campinas;JundiaíCargas;Entregue;11.72;39.51
+PED-10304;25/04/2025;28/04/2025;26/04/2025;Osasco;Santo André;TotalLog;Entregue;6.7;38.02
+PED-10305;26/04/2025;29/04/2025;28/04/2025;Guarulhos;Jundiaí;LogExpress;Entregue;6.95;59.41
+PED-10306;26/04/2025;04/05/2025;01/05/2025;Osasco;Jundiaí;TotalLog;Entregue;4.39;35.92
+PED-10307;26/04/2025;02/05/2025;27/04/2025;São Paulo;Jundiaí;RápidoSP;Entregue;34.7;105.79
+PED-10308;27/04/2025;02/05/2025;01/05/2025;São Paulo;Santo André;JundiaíCargas;Entregue;39.31;115.18
+PED-10309;27/04/2025;03/05/2025;02/05/2025;Osasco;Atibaia;TotalLog;Entregue;4.35;55.15
+PED-10310;27/04/2025;01/05/2025;28/04/2025;Guarulhos;Jundiaí;JundiaíCargas;Entregue;38.85;122.84
+PED-10311;28/04/2025;04/05/2025;03/05/2025;São Paulo;Jundiaí;RápidoSP;Entregue;37.99;108.79
+PED-10312;28/04/2025;04/05/2025;03/05/2025;Osasco;Santo André;JundiaíCargas;Entregue;2.6;44.26
+PED-10313;28/04/2025;04/05/2025;02/05/2025;Guarulhos;Atibaia;RápidoSP;Entregue;5.84;46.49
+PED-10314;29/04/2025;07/05/2025;06/05/2025;São Paulo;Jundiaí;LogExpress;Entregue;39.76;123.97
+PED-10315;29/04/2025;04/05/2025;30/04/2025;Osasco;Jundiaí;JundiaíCargas;Entregue;25.92;84.62
+PED-10316;29/04/2025;02/05/2025;02/05/2025;Osasco;Sorocaba;LogExpress;Entregue;3.43;35.64
+PED-10317;30/04/2025;07/05/2025;09/05/2025;Osasco;Atibaia;RápidoSP;Atrasado;6.39;41.42
+PED-10318;30/04/2025;05/05/2025;02/05/2025;Osasco;Campinas;LogExpress;Entregue;13.02;55.3
+PED-10319;30/04/2025;05/05/2025;02/05/2025;Guarulhos;Jundiaí;TotalLog;Entregue;3.78;52.59
+PED-10320;01/05/2025;08/05/2025;04/05/2025;Osasco;Ribeirão Preto;LogExpress;Entregue;33.55;93.46
+PED-10321;01/05/2025;06/05/2025;03/05/2025;Osasco;Santo André;TotalLog;Entregue;37.85;121.48
+PED-10322;01/05/2025;05/05/2025;05/05/2025;Osasco;Sorocaba;RápidoSP;Entregue;39.23;118.96
+PED-10323;02/05/2025;05/05/2025;04/05/2025;Osasco;Campinas;RápidoSP;Entregue;46.04;123.07
+PED-10324;02/05/2025;07/05/2025;03/05/2025;São Paulo;Campinas;JundiaíCargas;Entregue;10.67;41.72
+PED-10325;02/05/2025;05/05/2025;03/05/2025;Osasco;Ribeirão Preto;TotalLog;Entregue;45.11;120.55
+PED-10326;03/05/2025;11/05/2025;11/05/2025;São Paulo;Sorocaba;JundiaíCargas;Entregue;9.65;51.9
+PED-10327;03/05/2025;09/05/2025;05/05/2025;Guarulhos;Santo André;JundiaíCargas;Entregue;17.9;85.91
+PED-10328;03/05/2025;11/05/2025;06/05/2025;Guarulhos;Ribeirão Preto;RápidoSP;Entregue;4.99;56.08
+PED-10329;03/05/2025;06/05/2025;05/05/2025;São Paulo;Campinas;LogExpress;Entregue;42.37;128.41
+PED-10330;03/05/2025;08/05/2025;08/05/2025;Osasco;Campinas;RápidoSP;Entregue;47.12;134.79
+PED-10331;04/05/2025;11/05/2025;11/05/2025;São Paulo;Atibaia;RápidoSP;Entregue;47.47;144.33
+PED-10332;04/05/2025;07/05/2025;06/05/2025;São Paulo;Campinas;LogExpress;Entregue;17.72;75.5
+PED-10333;04/05/2025;09/05/2025;09/05/2025;São Paulo;Jundiaí;TotalLog;Entregue;8.45;50.62
+PED-10334;05/05/2025;14/05/2025;11/05/2025;Osasco;Jundiaí;TotalLog;Entregue;25.28;94.93
+PED-10335;05/05/2025;09/05/2025;07/05/2025;Osasco;Ribeirão Preto;LogExpress;Entregue;36.56;115.07
+PED-10336;05/05/2025;09/05/2025;07/05/2025;São Paulo;Sorocaba;LogExpress;Entregue;12.47;58.63
+PED-10337;05/05/2025;15/05/2025;;Guarulhos;Sorocaba;JundiaíCargas;Extraviado;28.73;75.28
+PED-10338;05/05/2025;15/05/2025;;São Paulo;Santo André;LogExpress;Extraviado;5.41;43.74
+PED-10339;06/05/2025;14/05/2025;14/05/2025;Guarulhos;Santo André;LogExpress;Entregue;29.12;78.85
+PED-10340;06/05/2025;10/05/2025;;Guarulhos;Atibaia;JundiaíCargas;Extraviado;1.19;37.25
+PED-10341;06/05/2025;16/05/2025;12/05/2025;Osasco;Sorocaba;TotalLog;Entregue;11.24;56.68
+PED-10342;06/05/2025;12/05/2025;10/05/2025;Guarulhos;Atibaia;LogExpress;Entregue;9.98;33.07
+PED-10343;06/05/2025;09/05/2025;09/05/2025;São Paulo;Santo André;LogExpress;Entregue;14.45;63.15
+PED-10344;07/05/2025;14/05/2025;12/05/2025;São Paulo;Campinas;JundiaíCargas;Entregue;45.13;112.35
+PED-10345;07/05/2025;17/05/2025;16/05/2025;Osasco;Ribeirão Preto;LogExpress;Entregue;27.09;85.92
+PED-10346;07/05/2025;10/05/2025;10/05/2025;Guarulhos;Atibaia;JundiaíCargas;Entregue;48.69;148.12
+PED-10347;07/05/2025;10/05/2025;10/05/2025;São Paulo;Campinas;RápidoSP;Entregue;5.38;26.11
+PED-10348;07/05/2025;17/05/2025;12/05/2025;Guarulhos;Atibaia;JundiaíCargas;Entregue;11.09;70.74
+PED-10349;08/05/2025;17/05/2025;18/05/2025;Guarulhos;Atibaia;RápidoSP;Atrasado;25.46;70.66
+PED-10350;08/05/2025;17/05/2025;24/05/2025;Osasco;Santo André;RápidoSP;Atrasado;35.53;85.37
+PED-10351;08/05/2025;12/05/2025;12/05/2025;São Paulo;Ribeirão Preto;JundiaíCargas;Entregue;18.64;80.61
+PED-10352;08/05/2025;18/05/2025;13/05/2025;São Paulo;Ribeirão Preto;JundiaíCargas;Entregue;29.67;82.12
+PED-10353;08/05/2025;18/05/2025;11/05/2025;São Paulo;Ribeirão Preto;JundiaíCargas;Entregue;22.26;84.97
+PED-10354;08/05/2025;12/05/2025;12/05/2025;Guarulhos;Atibaia;TotalLog;Entregue;47.91;146.12
+PED-10355;09/05/2025;13/05/2025;13/05/2025;Osasco;Santo André;LogExpress;Entregue;9.45;47.61
+PED-10356;09/05/2025;17/05/2025;16/05/2025;São Paulo;Atibaia;JundiaíCargas;Entregue;18.06;80.2
+PED-10357;09/05/2025;14/05/2025;12/05/2025;Osasco;Ribeirão Preto;RápidoSP;Entregue;19.29;74.78
+PED-10358;10/05/2025;14/05/2025;11/05/2025;Osasco;Ribeirão Preto;RápidoSP;Entregue;11.11;49.4
+PED-10359;10/05/2025;15/05/2025;12/05/2025;Osasco;Atibaia;JundiaíCargas;Entregue;11.76;36.5
+PED-10360;11/05/2025;18/05/2025;14/05/2025;Guarulhos;Sorocaba;LogExpress;Entregue;6.09;57.27
+PED-10361;12/05/2025;20/05/2025;13/05/2025;Guarulhos;Sorocaba;LogExpress;Entregue;49.24;114.33
+PED-10362;13/05/2025;22/05/2025;20/05/2025;Osasco;Santo André;LogExpress;Entregue;6.62;41.38
+PED-10363;13/05/2025;20/05/2025;;Osasco;Atibaia;RápidoSP;Extraviado;5.96;39.11
+PED-10364;14/05/2025;24/05/2025;21/05/2025;Guarulhos;Campinas;JundiaíCargas;Entregue;7.23;59.57
+PED-10365;14/05/2025;23/05/2025;16/05/2025;São Paulo;Jundiaí;JundiaíCargas;Entregue;38.23;102.98
+PED-10366;14/05/2025;18/05/2025;16/05/2025;Osasco;Santo André;JundiaíCargas;Entregue;35.38;94.59
+PED-10367;15/05/2025;19/05/2025;19/05/2025;Guarulhos;Sorocaba;RápidoSP;Entregue;28.08;73.55
+PED-10368;15/05/2025;21/05/2025;21/05/2025;Osasco;Sorocaba;JundiaíCargas;Entregue;2.51;19.24
+PED-10369;15/05/2025;24/05/2025;24/05/2025;São Paulo;Santo André;RápidoSP;Entregue;16.74;51.88
+PED-10370;16/05/2025;26/05/2025;17/05/2025;São Paulo;Sorocaba;RápidoSP;Entregue;6.23;28.84
+PED-10371;16/05/2025;22/05/2025;19/05/2025;Osasco;Campinas;LogExpress;Entregue;14.54;50.76
+PED-10372;16/05/2025;25/05/2025;18/05/2025;São Paulo;Sorocaba;JundiaíCargas;Entregue;30.22;77.05
+PED-10373;16/05/2025;24/05/2025;19/05/2025;Osasco;Jundiaí;JundiaíCargas;Entregue;15.94;55.75
+PED-10374;16/05/2025;26/05/2025;22/05/2025;São Paulo;Jundiaí;TotalLog;Entregue;48.82;128.81
+PED-10375;16/05/2025;25/05/2025;20/05/2025;Guarulhos;Atibaia;LogExpress;Entregue;22.48;63.98
+PED-10376;16/05/2025;25/05/2025;22/05/2025;Osasco;Campinas;RápidoSP;Entregue;27.92;93.21
+PED-10377;16/05/2025;20/05/2025;20/05/2025;Osasco;Sorocaba;LogExpress;Entregue;14.88;54.26
+PED-10378;16/05/2025;24/05/2025;24/05/2025;Guarulhos;Sorocaba;TotalLog;Entregue;42.84;101.05
+PED-10379;16/05/2025;25/05/2025;21/05/2025;São Paulo;Santo André;LogExpress;Entregue;9.84;33.0
+PED-10380;16/05/2025;24/05/2025;18/05/2025;Guarulhos;Atibaia;LogExpress;Entregue;3.95;33.89
+PED-10381;17/05/2025;24/05/2025;20/05/2025;São Paulo;Jundiaí;TotalLog;Entregue;42.13;111.27
+PED-10382;17/05/2025;25/05/2025;20/05/2025;São Paulo;Ribeirão Preto;LogExpress;Entregue;24.05;77.02
+PED-10383;17/05/2025;22/05/2025;28/05/2025;Osasco;Santo André;LogExpress;Atrasado;34.12;94.62
+PED-10384;18/05/2025;28/05/2025;21/05/2025;Guarulhos;Santo André;TotalLog;Entregue;9.38;44.72
+PED-10385;18/05/2025;22/05/2025;21/05/2025;Guarulhos;Sorocaba;TotalLog;Entregue;49.94;147.98
+PED-10386;19/05/2025;23/05/2025;23/05/2025;Guarulhos;Jundiaí;RápidoSP;Entregue;24.84;67.0
+PED-10387;19/05/2025;23/05/2025;23/05/2025;Guarulhos;Santo André;TotalLog;Entregue;5.71;30.09
+PED-10388;19/05/2025;23/05/2025;21/05/2025;São Paulo;Sorocaba;JundiaíCargas;Entregue;22.18;86.66
+PED-10389;20/05/2025;29/05/2025;27/05/2025;Osasco;Atibaia;JundiaíCargas;Entregue;33.1;102.95
+PED-10390;20/05/2025;24/05/2025;22/05/2025;Osasco;Campinas;JundiaíCargas;Entregue;4.71;39.61
+PED-10391;20/05/2025;28/05/2025;27/05/2025;Guarulhos;Jundiaí;RápidoSP;Entregue;7.6;56.06
+PED-10392;21/05/2025;26/05/2025;23/05/2025;Osasco;Atibaia;LogExpress;Entregue;20.33;68.09
+PED-10393;21/05/2025;24/05/2025;24/05/2025;Osasco;Sorocaba;TotalLog;Entregue;29.73;77.04
+PED-10394;21/05/2025;29/05/2025;30/05/2025;São Paulo;Campinas;RápidoSP;Atrasado;5.54;24.06
+PED-10395;22/05/2025;26/05/2025;24/05/2025;São Paulo;Santo André;LogExpress;Entregue;46.3;125.82
+PED-10396;22/05/2025;31/05/2025;26/05/2025;Osasco;Atibaia;TotalLog;Entregue;48.9;128.97
+PED-10397;22/05/2025;30/05/2025;27/05/2025;Guarulhos;Santo André;LogExpress;Entregue;3.7;37.14
+PED-10398;22/05/2025;31/05/2025;30/05/2025;Guarulhos;Santo André;TotalLog;Entregue;48.77;128.72
+PED-10399;23/05/2025;26/05/2025;26/05/2025;São Paulo;Campinas;JundiaíCargas;Entregue;17.26;55.6
+PED-10400;23/05/2025;30/05/2025;27/05/2025;Osasco;Campinas;TotalLog;Entregue;29.95;108.34
+PED-10401;23/05/2025;30/05/2025;28/05/2025;Osasco;Ribeirão Preto;TotalLog;Entregue;49.54;124.8
+PED-10402;23/05/2025;31/05/2025;29/05/2025;Osasco;Ribeirão Preto;RápidoSP;Entregue;6.58;62.36
+PED-10403;23/05/2025;27/05/2025;01/06/2025;São Paulo;Ribeirão Preto;RápidoSP;Atrasado;41.99;125.18
+PED-10404;23/05/2025;29/05/2025;29/05/2025;São Paulo;Santo André;RápidoSP;Entregue;36.4;96.29
+PED-10405;23/05/2025;28/05/2025;26/05/2025;Osasco;Santo André;JundiaíCargas;Entregue;14.29;62.2
+PED-10406;23/05/2025;02/06/2025;07/06/2025;Guarulhos;Campinas;JundiaíCargas;Atrasado;35.82;116.63
+PED-10407;23/05/2025;29/05/2025;25/05/2025;Guarulhos;Sorocaba;TotalLog;Entregue;29.3;83.71
+PED-10408;24/05/2025;28/05/2025;26/05/2025;São Paulo;Jundiaí;RápidoSP;Entregue;14.01;55.69
+PED-10409;25/05/2025;02/06/2025;28/05/2025;Guarulhos;Santo André;JundiaíCargas;Entregue;39.58;96.47
+PED-10410;25/05/2025;02/06/2025;28/05/2025;Guarulhos;Ribeirão Preto;JundiaíCargas;Entregue;32.37;103.41
+PED-10411;25/05/2025;29/05/2025;29/05/2025;Osasco;Campinas;TotalLog;Entregue;20.31;60.79
+PED-10412;26/05/2025;02/06/2025;31/05/2025;Osasco;Atibaia;TotalLog;Entregue;24.05;99.22
+PED-10413;26/05/2025;01/06/2025;28/05/2025;Guarulhos;Atibaia;LogExpress;Entregue;30.36;88.69
+PED-10414;26/05/2025;04/06/2025;04/06/2025;São Paulo;Ribeirão Preto;LogExpress;Entregue;20.52;92.5
+PED-10415;27/05/2025;30/05/2025;30/05/2025;Osasco;Ribeirão Preto;TotalLog;Entregue;24.48;92.69
+PED-10416;27/05/2025;03/06/2025;05/06/2025;Guarulhos;Sorocaba;LogExpress;Atrasado;14.31;61.55
+PED-10417;27/05/2025;30/05/2025;29/05/2025;Osasco;Sorocaba;JundiaíCargas;Entregue;38.52;107.84
+PED-10418;28/05/2025;02/06/2025;30/05/2025;Osasco;Ribeirão Preto;TotalLog;Entregue;5.85;58.74
+PED-10419;29/05/2025;05/06/2025;02/06/2025;Guarulhos;Ribeirão Preto;TotalLog;Entregue;12.91;55.18
+PED-10420;30/05/2025;06/06/2025;06/06/2025;Guarulhos;Atibaia;RápidoSP;Entregue;25.12;62.79
+PED-10421;30/05/2025;07/06/2025;31/05/2025;São Paulo;Sorocaba;JundiaíCargas;Entregue;31.6;94.95
+PED-10422;31/05/2025;08/06/2025;04/06/2025;Guarulhos;Santo André;JundiaíCargas;Entregue;7.16;58.21
+PED-10423;31/05/2025;03/06/2025;08/06/2025;Osasco;Campinas;RápidoSP;Atrasado;5.43;32.97
+PED-10424;31/05/2025;05/06/2025;04/06/2025;São Paulo;Jundiaí;LogExpress;Entregue;3.12;55.44
+PED-10425;01/06/2025;06/06/2025;05/06/2025;Guarulhos;Campinas;TotalLog;Entregue;3.88;18.17
+PED-10426;01/06/2025;10/06/2025;09/06/2025;Osasco;Campinas;LogExpress;Entregue;34.07;118.89
+PED-10427;01/06/2025;05/06/2025;02/06/2025;São Paulo;Sorocaba;JundiaíCargas;Entregue;48.62;131.39
+PED-10428;02/06/2025;07/06/2025;04/06/2025;São Paulo;Jundiaí;LogExpress;Entregue;19.44;74.74
+PED-10429;02/06/2025;05/06/2025;04/06/2025;São Paulo;Ribeirão Preto;JundiaíCargas;Entregue;34.12;115.23
+PED-10430;02/06/2025;06/06/2025;05/06/2025;Osasco;Santo André;TotalLog;Entregue;8.06;42.13
+PED-10431;03/06/2025;09/06/2025;07/06/2025;Osasco;Atibaia;TotalLog;Entregue;31.29;89.77
+PED-10432;03/06/2025;12/06/2025;11/06/2025;São Paulo;Santo André;TotalLog;Entregue;5.27;46.36
+PED-10433;03/06/2025;12/06/2025;05/06/2025;Osasco;Sorocaba;RápidoSP;Entregue;4.29;42.42
+PED-10434;04/06/2025;14/06/2025;09/06/2025;São Paulo;Ribeirão Preto;RápidoSP;Entregue;37.7;109.58
+PED-10435;04/06/2025;12/06/2025;10/06/2025;São Paulo;Atibaia;RápidoSP;Entregue;38.49;92.65
+PED-10436;04/06/2025;09/06/2025;05/06/2025;Osasco;Santo André;TotalLog;Entregue;39.74;123.02
+PED-10437;04/06/2025;12/06/2025;12/06/2025;Osasco;Campinas;TotalLog;Entregue;10.5;54.57
+PED-10438;05/06/2025;12/06/2025;09/06/2025;São Paulo;Sorocaba;LogExpress;Entregue;33.27;91.89
+PED-10439;05/06/2025;13/06/2025;09/06/2025;Osasco;Jundiaí;JundiaíCargas;Entregue;24.77;77.83
+PED-10440;06/06/2025;10/06/2025;07/06/2025;Guarulhos;Campinas;RápidoSP;Entregue;13.45;43.16
+PED-10441;06/06/2025;09/06/2025;08/06/2025;São Paulo;Jundiaí;TotalLog;Entregue;17.51;52.36
+PED-10442;06/06/2025;11/06/2025;12/06/2025;São Paulo;Atibaia;TotalLog;Atrasado;43.05;122.66
+PED-10443;06/06/2025;11/06/2025;07/06/2025;Osasco;Jundiaí;JundiaíCargas;Entregue;27.56;79.05
+PED-10444;07/06/2025;10/06/2025;08/06/2025;Osasco;Campinas;RápidoSP;Entregue;47.65;127.34
+PED-10445;07/06/2025;11/06/2025;10/06/2025;Osasco;Jundiaí;RápidoSP;Entregue;2.06;38.74
+PED-10446;08/06/2025;15/06/2025;20/06/2025;Guarulhos;Sorocaba;LogExpress;Atrasado;21.81;94.1
+PED-10447;08/06/2025;18/06/2025;11/06/2025;Osasco;Sorocaba;TotalLog;Entregue;45.79;118.89
+PED-10448;09/06/2025;18/06/2025;13/06/2025;São Paulo;Campinas;LogExpress;Entregue;19.49;78.21
+PED-10449;09/06/2025;19/06/2025;26/06/2025;Osasco;Ribeirão Preto;TotalLog;Atrasado;16.07;57.45
+PED-10450;09/06/2025;19/06/2025;15/06/2025;Osasco;Santo André;JundiaíCargas;Entregue;19.13;60.63
+PED-10451;10/06/2025;19/06/2025;19/06/2025;São Paulo;Ribeirão Preto;LogExpress;Entregue;23.25;88.93
+PED-10452;10/06/2025;17/06/2025;16/06/2025;São Paulo;Jundiaí;TotalLog;Entregue;2.13;32.58
+PED-10453;10/06/2025;16/06/2025;15/06/2025;Guarulhos;Campinas;RápidoSP;Entregue;28.05;78.74
+PED-10454;10/06/2025;14/06/2025;11/06/2025;Osasco;Jundiaí;JundiaíCargas;Entregue;43.09;139.81
+PED-10455;11/06/2025;19/06/2025;18/06/2025;Guarulhos;Campinas;TotalLog;Entregue;15.5;56.22
+PED-10456;11/06/2025;20/06/2025;23/06/2025;São Paulo;Jundiaí;LogExpress;Atrasado;35.45;102.84
+PED-10457;11/06/2025;15/06/2025;17/06/2025;São Paulo;Santo André;LogExpress;Atrasado;24.83;86.12
+PED-10458;11/06/2025;18/06/2025;13/06/2025;São Paulo;Campinas;TotalLog;Entregue;7.16;25.67
+PED-10459;11/06/2025;21/06/2025;17/06/2025;São Paulo;Sorocaba;JundiaíCargas;Entregue;35.93;113.13
+PED-10460;12/06/2025;19/06/2025;26/06/2025;São Paulo;Santo André;TotalLog;Atrasado;24.63;87.58
+PED-10461;13/06/2025;16/06/2025;20/06/2025;Guarulhos;Sorocaba;LogExpress;Atrasado;5.91;22.49
+PED-10462;14/06/2025;20/06/2025;19/06/2025;Osasco;Santo André;LogExpress;Entregue;33.91;100.27
+PED-10463;15/06/2025;24/06/2025;22/06/2025;São Paulo;Sorocaba;RápidoSP;Entregue;33.17;115.71
+PED-10464;15/06/2025;18/06/2025;16/06/2025;Osasco;Santo André;RápidoSP;Entregue;34.43;109.21
+PED-10465;16/06/2025;19/06/2025;17/06/2025;São Paulo;Ribeirão Preto;LogExpress;Entregue;28.82;87.05
+PED-10466;16/06/2025;22/06/2025;22/06/2025;Guarulhos;Jundiaí;RápidoSP;Entregue;24.06;96.34
+PED-10467;17/06/2025;24/06/2025;20/06/2025;Guarulhos;Sorocaba;RápidoSP;Entregue;42.79;127.99
+PED-10468;17/06/2025;23/06/2025;21/06/2025;Guarulhos;Jundiaí;TotalLog;Entregue;25.58;94.22
+PED-10469;17/06/2025;22/06/2025;18/06/2025;Guarulhos;Campinas;JundiaíCargas;Entregue;19.87;73.25
+PED-10470;18/06/2025;25/06/2025;02/07/2025;Osasco;Jundiaí;TotalLog;Atrasado;24.99;93.97
+PED-10471;19/06/2025;26/06/2025;25/06/2025;Guarulhos;Sorocaba;TotalLog;Entregue;48.56;137.94
+PED-10472;19/06/2025;27/06/2025;;Guarulhos;Santo André;RápidoSP;Extraviado;31.04;78.28
+PED-10473;19/06/2025;23/06/2025;22/06/2025;Guarulhos;Jundiaí;RápidoSP;Entregue;17.96;48.95
+PED-10474;19/06/2025;22/06/2025;29/06/2025;São Paulo;Atibaia;JundiaíCargas;Atrasado;48.9;145.97
+PED-10475;19/06/2025;29/06/2025;23/06/2025;Guarulhos;Santo André;JundiaíCargas;Entregue;16.36;71.22
+PED-10476;20/06/2025;29/06/2025;;Osasco;Campinas;JundiaíCargas;Extraviado;1.89;40.86
+PED-10477;20/06/2025;25/06/2025;29/06/2025;São Paulo;Campinas;TotalLog;Atrasado;2.73;29.85
+PED-10478;21/06/2025;26/06/2025;24/06/2025;Osasco;Sorocaba;JundiaíCargas;Entregue;41.93;130.56
+PED-10479;21/06/2025;30/06/2025;24/06/2025;São Paulo;Santo André;LogExpress;Entregue;17.77;80.42
+PED-10480;22/06/2025;28/06/2025;26/06/2025;Osasco;Jundiaí;LogExpress;Entregue;37.23;102.5
+PED-10481;22/06/2025;30/06/2025;23/06/2025;Osasco;Jundiaí;TotalLog;Entregue;1.83;20.93
+PED-10482;22/06/2025;26/06/2025;26/06/2025;Osasco;Ribeirão Preto;RápidoSP;Entregue;44.62;134.42
+PED-10483;22/06/2025;01/07/2025;25/06/2025;São Paulo;Campinas;JundiaíCargas;Entregue;17.39;74.4
+PED-10484;23/06/2025;26/06/2025;24/06/2025;Osasco;Santo André;LogExpress;Entregue;5.32;21.51
+PED-10485;23/06/2025;02/07/2025;;Osasco;Santo André;JundiaíCargas;Extraviado;17.58;65.43
+PED-10486;24/06/2025;27/06/2025;27/06/2025;São Paulo;Campinas;LogExpress;Entregue;18.19;85.65
+PED-10487;24/06/2025;04/07/2025;10/07/2025;Osasco;Ribeirão Preto;LogExpress;Atrasado;17.89;65.35
+PED-10488;24/06/2025;28/06/2025;27/06/2025;São Paulo;Jundiaí;JundiaíCargas;Entregue;33.23;88.64
+PED-10489;24/06/2025;02/07/2025;30/06/2025;Guarulhos;Campinas;LogExpress;Entregue;12.76;37.59
+PED-10490;24/06/2025;03/07/2025;30/06/2025;Osasco;Santo André;JundiaíCargas;Entregue;32.58;89.66
+PED-10491;25/06/2025;04/07/2025;28/06/2025;São Paulo;Ribeirão Preto;LogExpress;Entregue;29.83;109.5
+PED-10492;26/06/2025;05/07/2025;01/07/2025;Guarulhos;Jundiaí;RápidoSP;Entregue;45.56;119.99
+PED-10493;26/06/2025;03/07/2025;03/07/2025;Osasco;Atibaia;TotalLog;Entregue;3.74;21.45
+PED-10494;26/06/2025;30/06/2025;27/06/2025;Guarulhos;Ribeirão Preto;TotalLog;Entregue;15.59;67.28
+PED-10495;27/06/2025;06/07/2025;28/06/2025;Osasco;Campinas;JundiaíCargas;Entregue;17.21;58.27
+PED-10496;28/06/2025;01/07/2025;29/06/2025;São Paulo;Santo André;TotalLog;Entregue;1.48;41.82
+PED-10497;29/06/2025;07/07/2025;03/07/2025;Guarulhos;Santo André;TotalLog;Entregue;16.64;54.31
+PED-10498;29/06/2025;04/07/2025;03/07/2025;Guarulhos;Ribeirão Preto;TotalLog;Entregue;23.32;78.72
+PED-10499;29/06/2025;09/07/2025;05/07/2025;Guarulhos;Sorocaba;TotalLog;Entregue;43.24;115.32
+PED-10500;30/06/2025;08/07/2025;15/07/2025;Guarulhos;Sorocaba;RápidoSP;Atrasado;28.62;81.33
+PED-10501;30/06/2025;04/07/2025;02/07/2025;Osasco;Campinas;RápidoSP;Entregue;45.12;140.93
+PED-10502;01/07/2025;10/07/2025;05/07/2025;São Paulo;Ribeirão Preto;TotalLog;Entregue;13.7;67.05
+PED-10503;01/07/2025;05/07/2025;02/07/2025;Guarulhos;Ribeirão Preto;RápidoSP;Entregue;34.95;91.76
+PED-10504;01/07/2025;07/07/2025;04/07/2025;São Paulo;Jundiaí;RápidoSP;Entregue;29.61;80.02
+PED-10505;01/07/2025;10/07/2025;12/07/2025;Osasco;Ribeirão Preto;TotalLog;Atrasado;49.3;146.37
+PED-10506;03/07/2025;12/07/2025;06/07/2025;São Paulo;Atibaia;JundiaíCargas;Entregue;19.2;66.16
+PED-10507;03/07/2025;07/07/2025;05/07/2025;São Paulo;Atibaia;TotalLog;Entregue;19.82;86.42
+PED-10508;04/07/2025;13/07/2025;05/07/2025;Osasco;Jundiaí;RápidoSP;Entregue;28.84;93.33
+PED-10509;05/07/2025;12/07/2025;07/07/2025;Guarulhos;Sorocaba;JundiaíCargas;Entregue;40.51;114.83
+PED-10510;05/07/2025;13/07/2025;09/07/2025;Osasco;Santo André;RápidoSP;Entregue;5.45;43.52
+PED-10511;05/07/2025;11/07/2025;07/07/2025;Guarulhos;Ribeirão Preto;RápidoSP;Entregue;33.92;107.63
+PED-10512;05/07/2025;13/07/2025;18/07/2025;Osasco;Sorocaba;LogExpress;Atrasado;17.13;68.6
+PED-10513;06/07/2025;11/07/2025;08/07/2025;São Paulo;Campinas;LogExpress;Entregue;25.39;90.61
+PED-10514;06/07/2025;10/07/2025;07/07/2025;Guarulhos;Sorocaba;LogExpress;Entregue;38.36;113.16
+PED-10515;06/07/2025;10/07/2025;07/07/2025;Osasco;Jundiaí;RápidoSP;Entregue;17.31;48.97
+PED-10516;08/07/2025;14/07/2025;12/07/2025;Osasco;Ribeirão Preto;TotalLog;Entregue;30.93;80.08
+PED-10517;08/07/2025;16/07/2025;15/07/2025;Osasco;Campinas;TotalLog;Entregue;18.49;51.43
+PED-10518;09/07/2025;17/07/2025;12/07/2025;Guarulhos;Jundiaí;RápidoSP;Entregue;22.08;66.75
+PED-10519;09/07/2025;14/07/2025;10/07/2025;São Paulo;Campinas;LogExpress;Entregue;25.1;85.51
+PED-10520;09/07/2025;15/07/2025;14/07/2025;Osasco;Ribeirão Preto;RápidoSP;Entregue;42.44;108.24
+PED-10521;09/07/2025;13/07/2025;12/07/2025;Osasco;Santo André;TotalLog;Entregue;39.46;113.79
+PED-10522;11/07/2025;16/07/2025;12/07/2025;São Paulo;Sorocaba;TotalLog;Entregue;42.1;129.7
+PED-10523;11/07/2025;18/07/2025;24/07/2025;São Paulo;Jundiaí;TotalLog;Atrasado;27.02;74.42
+PED-10524;12/07/2025;18/07/2025;20/07/2025;São Paulo;Campinas;RápidoSP;Atrasado;14.72;68.03
+PED-10525;13/07/2025;18/07/2025;18/07/2025;São Paulo;Sorocaba;TotalLog;Entregue;2.85;55.66
+PED-10526;14/07/2025;19/07/2025;18/07/2025;Osasco;Atibaia;TotalLog;Entregue;49.81;142.32
+PED-10527;14/07/2025;18/07/2025;15/07/2025;Osasco;Jundiaí;TotalLog;Entregue;20.4;74.16
+PED-10528;14/07/2025;19/07/2025;16/07/2025;Guarulhos;Santo André;TotalLog;Entregue;11.68;44.64
+PED-10529;14/07/2025;24/07/2025;16/07/2025;Osasco;Campinas;JundiaíCargas;Entregue;37.27;110.67
+PED-10530;14/07/2025;24/07/2025;24/07/2025;Osasco;Jundiaí;RápidoSP;Entregue;5.05;38.76
+PED-10531;14/07/2025;24/07/2025;15/07/2025;São Paulo;Jundiaí;RápidoSP;Entregue;42.29;136.32
+PED-10532;14/07/2025;22/07/2025;;Guarulhos;Atibaia;TotalLog;Extraviado;5.19;46.54
+PED-10533;14/07/2025;22/07/2025;24/07/2025;São Paulo;Ribeirão Preto;LogExpress;Atrasado;17.17;83.78
+PED-10534;14/07/2025;19/07/2025;19/07/2025;Osasco;Santo André;TotalLog;Entregue;3.83;20.12
+PED-10535;14/07/2025;24/07/2025;23/07/2025;Osasco;Ribeirão Preto;RápidoSP;Entregue;40.16;131.89
+PED-10536;15/07/2025;19/07/2025;19/07/2025;Osasco;Atibaia;JundiaíCargas;Entregue;24.03;77.76
+PED-10537;15/07/2025;25/07/2025;;Guarulhos;Campinas;TotalLog;Extraviado;10.88;72.65
+PED-10538;16/07/2025;26/07/2025;17/07/2025;São Paulo;Sorocaba;JundiaíCargas;Entregue;39.88;104.71
+PED-10539;16/07/2025;23/07/2025;17/07/2025;Guarulhos;Jundiaí;LogExpress;Entregue;32.75;105.98
+PED-10540;17/07/2025;24/07/2025;18/07/2025;Osasco;Campinas;LogExpress;Entregue;15.44;61.09
+PED-10541;17/07/2025;20/07/2025;27/07/2025;Osasco;Campinas;TotalLog;Atrasado;40.3;109.09
+PED-10542;19/07/2025;27/07/2025;24/07/2025;São Paulo;Santo André;JundiaíCargas;Entregue;21.93;86.41
+PED-10543;19/07/2025;23/07/2025;23/07/2025;São Paulo;Jundiaí;LogExpress;Entregue;27.23;102.54
+PED-10544;19/07/2025;26/07/2025;23/07/2025;São Paulo;Ribeirão Preto;TotalLog;Entregue;10.4;40.82
+PED-10545;19/07/2025;29/07/2025;28/07/2025;São Paulo;Atibaia;LogExpress;Entregue;20.41;63.98
+PED-10546;21/07/2025;31/07/2025;24/07/2025;Osasco;Sorocaba;RápidoSP;Entregue;31.44;92.83
+PED-10547;22/07/2025;25/07/2025;24/07/2025;Guarulhos;Ribeirão Preto;JundiaíCargas;Entregue;22.93;76.11
+PED-10548;22/07/2025;25/07/2025;23/07/2025;São Paulo;Jundiaí;TotalLog;Entregue;38.29;90.62
+PED-10549;23/07/2025;31/07/2025;;São Paulo;Jundiaí;LogExpress;Extraviado;9.44;37.61
+PED-10550;24/07/2025;31/07/2025;27/07/2025;São Paulo;Sorocaba;LogExpress;Entregue;1.42;16.25
+PED-10551;24/07/2025;28/07/2025;25/07/2025;Osasco;Ribeirão Preto;RápidoSP;Entregue;35.31;107.02
+PED-10552;24/07/2025;28/07/2025;28/07/2025;Osasco;Campinas;TotalLog;Entregue;43.2;101.73
+PED-10553;24/07/2025;02/08/2025;28/07/2025;São Paulo;Ribeirão Preto;LogExpress;Entregue;29.05;100.5
+PED-10554;24/07/2025;03/08/2025;26/07/2025;Osasco;Atibaia;JundiaíCargas;Entregue;11.04;72.31
+PED-10555;25/07/2025;28/07/2025;29/07/2025;Guarulhos;Jundiaí;LogExpress;Atrasado;48.12;128.0
+PED-10556;25/07/2025;04/08/2025;04/08/2025;Osasco;Campinas;JundiaíCargas;Entregue;37.24;91.18
+PED-10557;25/07/2025;31/07/2025;31/07/2025;Osasco;Santo André;LogExpress;Entregue;23.63;69.62
+PED-10558;26/07/2025;03/08/2025;29/07/2025;São Paulo;Campinas;TotalLog;Entregue;46.89;115.05
+PED-10559;26/07/2025;05/08/2025;29/07/2025;Guarulhos;Sorocaba;TotalLog;Entregue;26.87;78.86
+PED-10560;26/07/2025;31/07/2025;28/07/2025;Osasco;Atibaia;TotalLog;Entregue;30.91;99.95
+PED-10561;27/07/2025;30/07/2025;29/07/2025;São Paulo;Ribeirão Preto;JundiaíCargas;Entregue;38.57;94.87
+PED-10562;27/07/2025;06/08/2025;01/08/2025;Guarulhos;Sorocaba;TotalLog;Entregue;21.97;75.34
+PED-10563;27/07/2025;31/07/2025;29/07/2025;São Paulo;Santo André;JundiaíCargas;Entregue;28.52;102.21
+PED-10564;28/07/2025;05/08/2025;02/08/2025;São Paulo;Ribeirão Preto;JundiaíCargas;Entregue;31.52;99.89
+PED-10565;28/07/2025;01/08/2025;29/07/2025;Osasco;Campinas;JundiaíCargas;Entregue;26.35;90.39
+PED-10566;28/07/2025;02/08/2025;29/07/2025;Osasco;Jundiaí;RápidoSP;Entregue;18.53;62.29
+PED-10567;28/07/2025;31/07/2025;30/07/2025;Guarulhos;Ribeirão Preto;LogExpress;Entregue;7.81;36.42
+PED-10568;28/07/2025;03/08/2025;29/07/2025;Guarulhos;Santo André;JundiaíCargas;Entregue;7.95;31.01
+PED-10569;29/07/2025;08/08/2025;08/08/2025;Guarulhos;Sorocaba;JundiaíCargas;Entregue;34.42;91.82
+PED-10570;29/07/2025;08/08/2025;06/08/2025;São Paulo;Ribeirão Preto;LogExpress;Entregue;15.36;55.89
+PED-10571;30/07/2025;04/08/2025;02/08/2025;Osasco;Campinas;TotalLog;Entregue;22.05;58.48
+PED-10572;30/07/2025;07/08/2025;02/08/2025;Osasco;Sorocaba;RápidoSP;Entregue;16.27;57.51
+PED-10573;31/07/2025;08/08/2025;05/08/2025;São Paulo;Jundiaí;LogExpress;Entregue;41.6;129.12
+PED-10574;01/08/2025;08/08/2025;06/08/2025;São Paulo;Santo André;JundiaíCargas;Entregue;3.69;55.49
+PED-10575;01/08/2025;10/08/2025;03/08/2025;Guarulhos;Ribeirão Preto;LogExpress;Entregue;10.58;63.25
+PED-10576;01/08/2025;10/08/2025;10/08/2025;Osasco;Santo André;JundiaíCargas;Entregue;20.92;78.71
+PED-10577;02/08/2025;10/08/2025;03/08/2025;São Paulo;Atibaia;TotalLog;Entregue;41.27;127.23
+PED-10578;03/08/2025;06/08/2025;05/08/2025;São Paulo;Sorocaba;LogExpress;Entregue;32.48;103.22
+PED-10579;03/08/2025;11/08/2025;06/08/2025;Guarulhos;Atibaia;RápidoSP;Entregue;13.19;60.86
+PED-10580;03/08/2025;07/08/2025;04/08/2025;Guarulhos;Ribeirão Preto;LogExpress;Entregue;30.26;76.97
+PED-10581;04/08/2025;12/08/2025;11/08/2025;Guarulhos;Santo André;JundiaíCargas;Entregue;20.59;55.67
+PED-10582;04/08/2025;08/08/2025;06/08/2025;Guarulhos;Campinas;JundiaíCargas;Entregue;6.12;24.19
+PED-10583;04/08/2025;13/08/2025;10/08/2025;Osasco;Atibaia;RápidoSP;Entregue;10.0;43.53
+PED-10584;04/08/2025;11/08/2025;05/08/2025;Osasco;Campinas;JundiaíCargas;Entregue;12.66;70.49
+PED-10585;05/08/2025;12/08/2025;06/08/2025;Guarulhos;Atibaia;JundiaíCargas;Entregue;41.45;99.65
+PED-10586;05/08/2025;10/08/2025;06/08/2025;Osasco;Sorocaba;JundiaíCargas;Entregue;23.48;64.41
+PED-10587;05/08/2025;13/08/2025;06/08/2025;Osasco;Sorocaba;LogExpress;Entregue;28.21;106.01
+PED-10588;05/08/2025;09/08/2025;;São Paulo;Ribeirão Preto;LogExpress;Extraviado;22.09;74.07
+PED-10589;05/08/2025;10/08/2025;09/08/2025;Osasco;Santo André;RápidoSP;Entregue;32.52;90.35
+PED-10590;05/08/2025;13/08/2025;20/08/2025;Osasco;Sorocaba;RápidoSP;Atrasado;2.33;39.94
+PED-10591;05/08/2025;12/08/2025;15/08/2025;Guarulhos;Atibaia;TotalLog;Atrasado;8.39;30.25
+PED-10592;05/08/2025;14/08/2025;13/08/2025;Guarulhos;Atibaia;JundiaíCargas;Entregue;7.25;52.33
+PED-10593;06/08/2025;11/08/2025;08/08/2025;Guarulhos;Campinas;RápidoSP;Entregue;13.29;60.28
+PED-10594;06/08/2025;10/08/2025;09/08/2025;São Paulo;Jundiaí;JundiaíCargas;Entregue;40.28;106.38
+PED-10595;07/08/2025;14/08/2025;09/08/2025;São Paulo;Atibaia;RápidoSP;Entregue;33.1;94.77
+PED-10596;07/08/2025;16/08/2025;15/08/2025;Guarulhos;Campinas;TotalLog;Entregue;9.21;33.17
+PED-10597;08/08/2025;16/08/2025;;São Paulo;Santo André;RápidoSP;Extraviado;42.7;129.75
+PED-10598;08/08/2025;13/08/2025;13/08/2025;São Paulo;Sorocaba;LogExpress;Entregue;48.21;120.57
+PED-10599;08/08/2025;12/08/2025;10/08/2025;Osasco;Sorocaba;JundiaíCargas;Entregue;24.55;85.54
+PED-10600;08/08/2025;17/08/2025;15/08/2025;Osasco;Atibaia;LogExpress;Entregue;1.49;39.52
+PED-10601;09/08/2025;17/08/2025;15/08/2025;Osasco;Sorocaba;RápidoSP;Entregue;43.05;100.83
+PED-10602;09/08/2025;12/08/2025;12/08/2025;Guarulhos;Santo André;RápidoSP;Entregue;4.65;35.12
+PED-10603;09/08/2025;17/08/2025;20/08/2025;Guarulhos;Jundiaí;TotalLog;Atrasado;30.28;105.39
+PED-10604;09/08/2025;16/08/2025;15/08/2025;Guarulhos;Ribeirão Preto;TotalLog;Entregue;43.43;136.4
+PED-10605;10/08/2025;15/08/2025;13/08/2025;São Paulo;Atibaia;TotalLog;Entregue;45.08;129.44
+PED-10606;11/08/2025;17/08/2025;16/08/2025;Osasco;Santo André;RápidoSP;Entregue;20.65;66.95
+PED-10607;11/08/2025;19/08/2025;;Osasco;Ribeirão Preto;TotalLog;Extraviado;18.49;86.33
+PED-10608;11/08/2025;21/08/2025;12/08/2025;Guarulhos;Campinas;RápidoSP;Entregue;33.04;110.7
+PED-10609;12/08/2025;18/08/2025;;Guarulhos;Jundiaí;RápidoSP;Extraviado;4.97;38.6
+PED-10610;12/08/2025;18/08/2025;15/08/2025;Guarulhos;Atibaia;JundiaíCargas;Entregue;47.19;122.23
+PED-10611;12/08/2025;17/08/2025;14/08/2025;Guarulhos;Sorocaba;LogExpress;Entregue;36.35;94.03
+PED-10612;12/08/2025;17/08/2025;22/08/2025;Guarulhos;Atibaia;JundiaíCargas;Atrasado;7.46;29.77
+PED-10613;13/08/2025;17/08/2025;16/08/2025;Guarulhos;Campinas;LogExpress;Entregue;6.04;46.49
+PED-10614;13/08/2025;20/08/2025;19/08/2025;Guarulhos;Sorocaba;LogExpress;Entregue;36.86;90.11
+PED-10615;14/08/2025;18/08/2025;15/08/2025;Osasco;Ribeirão Preto;RápidoSP;Entregue;46.68;139.6
+PED-10616;14/08/2025;17/08/2025;17/08/2025;São Paulo;Jundiaí;TotalLog;Entregue;26.34;73.06
+PED-10617;15/08/2025;23/08/2025;24/08/2025;São Paulo;Ribeirão Preto;TotalLog;Atrasado;41.53;120.14
+PED-10618;15/08/2025;20/08/2025;16/08/2025;Osasco;Atibaia;TotalLog;Entregue;47.51;135.27
+PED-10619;15/08/2025;24/08/2025;18/08/2025;Osasco;Santo André;JundiaíCargas;Entregue;46.61;118.13
+PED-10620;15/08/2025;20/08/2025;18/08/2025;São Paulo;Campinas;TotalLog;Entregue;12.96;54.06
+PED-10621;15/08/2025;20/08/2025;27/08/2025;Guarulhos;Atibaia;RápidoSP;Atrasado;44.29;131.99
+PED-10622;15/08/2025;20/08/2025;18/08/2025;São Paulo;Ribeirão Preto;TotalLog;Entregue;12.28;53.57
+PED-10623;17/08/2025;22/08/2025;20/08/2025;Osasco;Santo André;TotalLog;Entregue;6.55;33.48
+PED-10624;18/08/2025;28/08/2025;22/08/2025;São Paulo;Atibaia;TotalLog;Entregue;40.43;126.78
+PED-10625;18/08/2025;21/08/2025;21/08/2025;Guarulhos;Campinas;JundiaíCargas;Entregue;16.8;47.7
+PED-10626;18/08/2025;27/08/2025;20/08/2025;Osasco;Atibaia;RápidoSP;Entregue;29.42;84.25
+PED-10627;19/08/2025;27/08/2025;27/08/2025;Osasco;Sorocaba;TotalLog;Entregue;19.8;69.01
+PED-10628;19/08/2025;25/08/2025;20/08/2025;São Paulo;Sorocaba;LogExpress;Entregue;37.54;127.22
+PED-10629;19/08/2025;29/08/2025;23/08/2025;Osasco;Santo André;JundiaíCargas;Entregue;12.18;65.75
+PED-10630;19/08/2025;26/08/2025;23/08/2025;São Paulo;Ribeirão Preto;TotalLog;Entregue;21.43;67.45
+PED-10631;20/08/2025;30/08/2025;22/08/2025;São Paulo;Sorocaba;TotalLog;Entregue;7.64;61.45
+PED-10632;21/08/2025;27/08/2025;27/08/2025;Osasco;Jundiaí;JundiaíCargas;Entregue;9.17;60.28
+PED-10633;21/08/2025;27/08/2025;27/08/2025;Osasco;Jundiaí;LogExpress;Entregue;48.51;117.77
+PED-10634;21/08/2025;28/08/2025;22/08/2025;São Paulo;Atibaia;LogExpress;Entregue;22.25;69.07
+PED-10635;21/08/2025;31/08/2025;27/08/2025;Osasco;Ribeirão Preto;JundiaíCargas;Entregue;13.09;51.21
+PED-10636;21/08/2025;27/08/2025;27/08/2025;Osasco;Jundiaí;TotalLog;Entregue;29.68;87.08
+PED-10637;21/08/2025;29/08/2025;27/08/2025;Guarulhos;Jundiaí;JundiaíCargas;Entregue;24.77;62.34
+PED-10638;22/08/2025;01/09/2025;23/08/2025;Osasco;Campinas;JundiaíCargas;Entregue;19.05;73.46
+PED-10639;22/08/2025;01/09/2025;27/08/2025;São Paulo;Campinas;JundiaíCargas;Entregue;47.46;136.8
+PED-10640;23/08/2025;30/08/2025;01/09/2025;São Paulo;Jundiaí;JundiaíCargas;Atrasado;16.17;46.25
+PED-10641;23/08/2025;01/09/2025;30/08/2025;Osasco;Campinas;LogExpress;Entregue;21.48;75.39
+PED-10642;23/08/2025;01/09/2025;06/09/2025;Guarulhos;Jundiaí;JundiaíCargas;Atrasado;34.3;115.44
+PED-10643;24/08/2025;29/08/2025;26/08/2025;Osasco;Santo André;TotalLog;Entregue;48.18;145.53
+PED-10644;24/08/2025;30/08/2025;25/08/2025;Osasco;Campinas;TotalLog;Entregue;44.03;119.35
+PED-10645;24/08/2025;29/08/2025;31/08/2025;Guarulhos;Jundiaí;RápidoSP;Atrasado;46.88;116.26
+PED-10646;25/08/2025;01/09/2025;26/08/2025;Osasco;Jundiaí;RápidoSP;Entregue;18.47;56.8
+PED-10647;25/08/2025;28/08/2025;30/08/2025;São Paulo;Atibaia;JundiaíCargas;Atrasado;35.93;121.79
+PED-10648;25/08/2025;04/09/2025;01/09/2025;Guarulhos;Ribeirão Preto;RápidoSP;Entregue;41.16;127.85
+PED-10649;26/08/2025;03/09/2025;28/08/2025;Guarulhos;Santo André;JundiaíCargas;Entregue;1.54;26.9
+PED-10650;26/08/2025;30/08/2025;29/08/2025;São Paulo;Ribeirão Preto;LogExpress;Entregue;48.36;138.27
+PED-10651;26/08/2025;30/08/2025;31/08/2025;Osasco;Santo André;LogExpress;Atrasado;30.49;101.82
+PED-10652;27/08/2025;03/09/2025;28/08/2025;Osasco;Atibaia;LogExpress;Entregue;42.15;137.79
+PED-10653;27/08/2025;31/08/2025;31/08/2025;Guarulhos;Atibaia;LogExpress;Entregue;33.28;103.88
+PED-10654;27/08/2025;01/09/2025;02/09/2025;São Paulo;Ribeirão Preto;TotalLog;Atrasado;47.07;122.09
+PED-10655;27/08/2025;03/09/2025;10/09/2025;Guarulhos;Atibaia;LogExpress;Atrasado;34.69;105.99
+PED-10656;28/08/2025;07/09/2025;08/09/2025;Osasco;Sorocaba;LogExpress;Atrasado;39.55;131.58
+PED-10657;28/08/2025;02/09/2025;01/09/2025;Osasco;Jundiaí;TotalLog;Entregue;12.36;60.6
+PED-10658;28/08/2025;06/09/2025;04/09/2025;São Paulo;Sorocaba;JundiaíCargas;Entregue;27.86;85.25
+PED-10659;29/08/2025;02/09/2025;06/09/2025;Guarulhos;Campinas;RápidoSP;Atrasado;15.81;49.69
+PED-10660;29/08/2025;04/09/2025;02/09/2025;Guarulhos;Atibaia;JundiaíCargas;Entregue;47.94;128.85
+PED-10661;29/08/2025;08/09/2025;01/09/2025;Osasco;Ribeirão Preto;JundiaíCargas;Entregue;18.46;80.33
+PED-10662;29/08/2025;06/09/2025;01/09/2025;São Paulo;Jundiaí;RápidoSP;Entregue;40.71;97.18
+PED-10663;31/08/2025;03/09/2025;02/09/2025;Osasco;Jundiaí;LogExpress;Entregue;6.54;32.51
+PED-10664;31/08/2025;09/09/2025;10/09/2025;São Paulo;Campinas;LogExpress;Atrasado;43.41;101.31
+PED-10665;31/08/2025;03/09/2025;03/09/2025;Osasco;Ribeirão Preto;LogExpress;Entregue;42.95;109.12
+PED-10666;31/08/2025;09/09/2025;05/09/2025;Osasco;Santo André;LogExpress;Entregue;19.73;60.64
+PED-10667;31/08/2025;08/09/2025;08/09/2025;São Paulo;Jundiaí;RápidoSP;Entregue;45.53;130.57
+PED-10668;01/09/2025;07/09/2025;04/09/2025;Osasco;Santo André;LogExpress;Entregue;19.95;61.46
+PED-10669;01/09/2025;10/09/2025;08/09/2025;São Paulo;Ribeirão Preto;LogExpress;Entregue;48.91;142.09
+PED-10670;01/09/2025;05/09/2025;03/09/2025;Guarulhos;Jundiaí;LogExpress;Entregue;13.15;75.72
+PED-10671;01/09/2025;09/09/2025;02/09/2025;São Paulo;Sorocaba;RápidoSP;Entregue;4.97;33.7
+PED-10672;02/09/2025;08/09/2025;;São Paulo;Atibaia;TotalLog;Extraviado;41.22;126.17
+PED-10673;02/09/2025;05/09/2025;04/09/2025;Osasco;Ribeirão Preto;RápidoSP;Entregue;12.16;43.75
+PED-10674;02/09/2025;10/09/2025;10/09/2025;Osasco;Santo André;LogExpress;Entregue;10.91;40.28
+PED-10675;03/09/2025;07/09/2025;06/09/2025;Osasco;Sorocaba;RápidoSP;Entregue;44.57;143.19
+PED-10676;04/09/2025;12/09/2025;07/09/2025;São Paulo;Ribeirão Preto;JundiaíCargas;Entregue;45.84;120.78
+PED-10677;05/09/2025;10/09/2025;10/09/2025;Osasco;Jundiaí;JundiaíCargas;Entregue;31.75;79.62
+PED-10678;05/09/2025;10/09/2025;08/09/2025;Osasco;Atibaia;TotalLog;Entregue;44.03;103.66
+PED-10679;06/09/2025;09/09/2025;08/09/2025;Guarulhos;Sorocaba;LogExpress;Entregue;38.45;95.35
+PED-10680;06/09/2025;13/09/2025;13/09/2025;Guarulhos;Atibaia;TotalLog;Entregue;20.61;64.9
+PED-10681;06/09/2025;16/09/2025;10/09/2025;São Paulo;Jundiaí;JundiaíCargas;Entregue;2.18;22.35
+PED-10682;06/09/2025;11/09/2025;;São Paulo;Ribeirão Preto;TotalLog;Extraviado;43.39;124.55
+PED-10683;06/09/2025;16/09/2025;10/09/2025;Guarulhos;Jundiaí;JundiaíCargas;Entregue;41.25;127.25
+PED-10684;07/09/2025;17/09/2025;08/09/2025;São Paulo;Sorocaba;JundiaíCargas;Entregue;47.05;110.56
+PED-10685;07/09/2025;10/09/2025;08/09/2025;São Paulo;Jundiaí;RápidoSP;Entregue;23.82;61.21
+PED-10686;07/09/2025;11/09/2025;11/09/2025;Guarulhos;Campinas;LogExpress;Entregue;20.94;61.89
+PED-10687;08/09/2025;11/09/2025;09/09/2025;Guarulhos;Atibaia;JundiaíCargas;Entregue;42.14;105.46
+PED-10688;08/09/2025;15/09/2025;13/09/2025;São Paulo;Jundiaí;LogExpress;Entregue;36.01;121.04
+PED-10689;08/09/2025;14/09/2025;14/09/2025;São Paulo;Jundiaí;TotalLog;Entregue;43.9;130.94
+PED-10690;08/09/2025;13/09/2025;13/09/2025;Osasco;Ribeirão Preto;TotalLog;Entregue;41.1;109.9
+PED-10691;09/09/2025;18/09/2025;15/09/2025;São Paulo;Campinas;JundiaíCargas;Entregue;41.31;118.93
+PED-10692;09/09/2025;13/09/2025;18/09/2025;Osasco;Atibaia;LogExpress;Atrasado;35.07;90.79
+PED-10693;09/09/2025;16/09/2025;11/09/2025;Guarulhos;Santo André;JundiaíCargas;Entregue;25.56;64.54
+PED-10694;10/09/2025;16/09/2025;23/09/2025;Guarulhos;Campinas;JundiaíCargas;Atrasado;17.92;81.35
+PED-10695;11/09/2025;18/09/2025;22/09/2025;Guarulhos;Campinas;RápidoSP;Atrasado;30.3;110.06
+PED-10696;11/09/2025;15/09/2025;13/09/2025;Guarulhos;Atibaia;TotalLog;Entregue;40.76;96.44
+PED-10697;13/09/2025;16/09/2025;14/09/2025;São Paulo;Ribeirão Preto;LogExpress;Entregue;37.02;114.84
+PED-10698;14/09/2025;20/09/2025;19/09/2025;São Paulo;Campinas;TotalLog;Entregue;22.94;73.33
+PED-10699;15/09/2025;24/09/2025;24/09/2025;Osasco;Atibaia;RápidoSP;Entregue;1.85;45.38
+PED-10700;16/09/2025;26/09/2025;22/09/2025;Guarulhos;Ribeirão Preto;TotalLog;Entregue;3.08;20.91
+PED-10701;16/09/2025;20/09/2025;22/09/2025;São Paulo;Campinas;RápidoSP;Atrasado;32.26;115.19
+PED-10702;16/09/2025;20/09/2025;23/09/2025;Osasco;Atibaia;TotalLog;Atrasado;31.69;88.75
+PED-10703;17/09/2025;27/09/2025;23/09/2025;Osasco;Ribeirão Preto;LogExpress;Entregue;39.66;102.89
+PED-10704;17/09/2025;20/09/2025;18/09/2025;Osasco;Atibaia;RápidoSP;Entregue;7.24;57.58
+PED-10705;17/09/2025;23/09/2025;19/09/2025;Guarulhos;Santo André;TotalLog;Entregue;20.33;79.13
+PED-10706;17/09/2025;22/09/2025;22/09/2025;Osasco;Ribeirão Preto;RápidoSP;Entregue;31.6;114.01
+PED-10707;17/09/2025;24/09/2025;25/09/2025;Guarulhos;Jundiaí;LogExpress;Atrasado;16.03;82.75
+PED-10708;18/09/2025;27/09/2025;25/09/2025;Osasco;Ribeirão Preto;TotalLog;Entregue;4.57;59.5
+PED-10709;18/09/2025;21/09/2025;20/09/2025;Osasco;Atibaia;JundiaíCargas;Entregue;8.31;62.72
+PED-10710;18/09/2025;26/09/2025;21/09/2025;Osasco;Sorocaba;LogExpress;Entregue;26.06;99.86
+PED-10711;19/09/2025;25/09/2025;;São Paulo;Ribeirão Preto;LogExpress;Extraviado;48.5;114.47
+PED-10712;19/09/2025;28/09/2025;26/09/2025;Guarulhos;Santo André;LogExpress;Entregue;41.62;103.18
+PED-10713;21/09/2025;26/09/2025;25/09/2025;Osasco;Ribeirão Preto;LogExpress;Entregue;38.28;127.35
+PED-10714;21/09/2025;25/09/2025;23/09/2025;Guarulhos;Ribeirão Preto;JundiaíCargas;Entregue;42.42;130.88
+PED-10715;22/09/2025;30/09/2025;28/09/2025;Guarulhos;Santo André;TotalLog;Entregue;34.44;89.99
+PED-10716;22/09/2025;26/09/2025;24/09/2025;Osasco;Jundiaí;LogExpress;Entregue;39.74;108.58
+PED-10717;23/09/2025;26/09/2025;26/09/2025;Osasco;Campinas;TotalLog;Entregue;16.31;59.22
+PED-10718;24/09/2025;03/10/2025;27/09/2025;São Paulo;Campinas;RápidoSP;Entregue;24.18;84.76
+PED-10719;24/09/2025;04/10/2025;25/09/2025;Osasco;Atibaia;LogExpress;Entregue;36.89;126.55
+PED-10720;25/09/2025;28/09/2025;03/10/2025;Guarulhos;Santo André;LogExpress;Atrasado;13.4;47.92
+PED-10721;25/09/2025;04/10/2025;26/09/2025;Guarulhos;Atibaia;TotalLog;Entregue;34.53;84.36
+PED-10722;25/09/2025;03/10/2025;01/10/2025;São Paulo;Sorocaba;JundiaíCargas;Entregue;41.43;121.64
+PED-10723;26/09/2025;03/10/2025;08/10/2025;Osasco;Ribeirão Preto;RápidoSP;Atrasado;40.08;101.73
+PED-10724;28/09/2025;01/10/2025;01/10/2025;Guarulhos;Campinas;JundiaíCargas;Entregue;10.33;53.11
+PED-10725;28/09/2025;06/10/2025;06/10/2025;Guarulhos;Atibaia;TotalLog;Entregue;21.02;85.73
+PED-10726;28/09/2025;02/10/2025;29/09/2025;Guarulhos;Atibaia;LogExpress;Entregue;9.5;43.06
+PED-10727;29/09/2025;07/10/2025;05/10/2025;Guarulhos;Santo André;TotalLog;Entregue;43.88;104.28
+PED-10728;29/09/2025;05/10/2025;30/09/2025;Guarulhos;Sorocaba;TotalLog;Entregue;47.27;141.09
+PED-10729;29/09/2025;03/10/2025;09/10/2025;Osasco;Sorocaba;TotalLog;Atrasado;44.27;137.88
+PED-10730;29/09/2025;07/10/2025;05/10/2025;São Paulo;Atibaia;TotalLog;Entregue;11.61;68.44
+PED-10731;30/09/2025;05/10/2025;03/10/2025;Osasco;Sorocaba;LogExpress;Entregue;47.43;148.34
+PED-10732;30/09/2025;03/10/2025;03/10/2025;São Paulo;Sorocaba;RápidoSP;Entregue;46.19;142.43
+PED-10733;01/10/2025;09/10/2025;06/10/2025;Guarulhos;Santo André;LogExpress;Entregue;32.53;86.68
+PED-10734;01/10/2025;09/10/2025;02/10/2025;São Paulo;Ribeirão Preto;TotalLog;Entregue;31.52;79.45
+PED-10735;01/10/2025;06/10/2025;05/10/2025;São Paulo;Santo André;TotalLog;Entregue;45.39;124.15
+PED-10736;02/10/2025;12/10/2025;05/10/2025;São Paulo;Ribeirão Preto;LogExpress;Entregue;48.72;138.85
+PED-10737;02/10/2025;12/10/2025;16/10/2025;Osasco;Sorocaba;JundiaíCargas;Atrasado;10.31;34.25
+PED-10738;02/10/2025;07/10/2025;10/10/2025;Osasco;Atibaia;JundiaíCargas;Atrasado;35.21;104.29
+PED-10739;02/10/2025;07/10/2025;03/10/2025;Guarulhos;Campinas;JundiaíCargas;Entregue;8.85;58.64
+PED-10740;02/10/2025;06/10/2025;13/10/2025;São Paulo;Atibaia;TotalLog;Atrasado;20.35;78.54
+PED-10741;03/10/2025;13/10/2025;19/10/2025;São Paulo;Atibaia;LogExpress;Atrasado;21.73;76.0
+PED-10742;03/10/2025;06/10/2025;04/10/2025;São Paulo;Campinas;LogExpress;Entregue;13.38;58.04
+PED-10743;03/10/2025;10/10/2025;04/10/2025;São Paulo;Santo André;JundiaíCargas;Entregue;4.91;38.88
+PED-10744;03/10/2025;09/10/2025;04/10/2025;Guarulhos;Atibaia;JundiaíCargas;Entregue;18.71;62.16
+PED-10745;03/10/2025;06/10/2025;05/10/2025;Osasco;Ribeirão Preto;LogExpress;Entregue;47.39;124.47
+PED-10746;04/10/2025;10/10/2025;05/10/2025;Osasco;Sorocaba;TotalLog;Entregue;6.31;51.03
+PED-10747;04/10/2025;07/10/2025;05/10/2025;São Paulo;Sorocaba;JundiaíCargas;Entregue;36.07;114.37
+PED-10748;04/10/2025;12/10/2025;14/10/2025;Osasco;Santo André;RápidoSP;Atrasado;22.04;76.08
+PED-10749;04/10/2025;11/10/2025;09/10/2025;São Paulo;Santo André;RápidoSP;Entregue;46.04;117.42
+PED-10750;04/10/2025;13/10/2025;14/10/2025;Guarulhos;Santo André;LogExpress;Atrasado;22.96;74.25
+PED-10751;04/10/2025;14/10/2025;14/10/2025;Guarulhos;Jundiaí;TotalLog;Entregue;33.84;117.91
+PED-10752;05/10/2025;12/10/2025;18/10/2025;Osasco;Ribeirão Preto;RápidoSP;Atrasado;6.37;46.74
+PED-10753;05/10/2025;08/10/2025;08/10/2025;São Paulo;Jundiaí;JundiaíCargas;Entregue;35.82;86.69
+PED-10754;06/10/2025;12/10/2025;10/10/2025;Guarulhos;Sorocaba;TotalLog;Entregue;9.93;39.63
+PED-10755;07/10/2025;14/10/2025;08/10/2025;Osasco;Atibaia;LogExpress;Entregue;43.17;108.78
+PED-10756;07/10/2025;15/10/2025;11/10/2025;Guarulhos;Jundiaí;JundiaíCargas;Entregue;39.22;126.89
+PED-10757;07/10/2025;10/10/2025;10/10/2025;Guarulhos;Atibaia;TotalLog;Entregue;14.75;56.81
+PED-10758;07/10/2025;15/10/2025;12/10/2025;São Paulo;Campinas;LogExpress;Entregue;24.96;74.66
+PED-10759;08/10/2025;15/10/2025;11/10/2025;Osasco;Sorocaba;TotalLog;Entregue;6.94;60.12
+PED-10760;08/10/2025;12/10/2025;09/10/2025;São Paulo;Jundiaí;RápidoSP;Entregue;42.89;122.92
+PED-10761;09/10/2025;17/10/2025;17/10/2025;Osasco;Sorocaba;RápidoSP;Entregue;30.2;110.84
+PED-10762;09/10/2025;18/10/2025;15/10/2025;Guarulhos;Campinas;LogExpress;Entregue;49.76;129.46
+PED-10763;09/10/2025;18/10/2025;11/10/2025;São Paulo;Campinas;RápidoSP;Entregue;14.51;62.49
+PED-10764;10/10/2025;20/10/2025;20/10/2025;São Paulo;Sorocaba;LogExpress;Entregue;34.02;86.82
+PED-10765;10/10/2025;19/10/2025;12/10/2025;São Paulo;Jundiaí;RápidoSP;Entregue;21.21;57.9
+PED-10766;10/10/2025;18/10/2025;13/10/2025;São Paulo;Ribeirão Preto;TotalLog;Entregue;20.72;71.29
+PED-10767;10/10/2025;15/10/2025;11/10/2025;Osasco;Sorocaba;TotalLog;Entregue;7.72;40.27
+PED-10768;11/10/2025;21/10/2025;13/10/2025;Osasco;Atibaia;LogExpress;Entregue;14.86;64.56
+PED-10769;11/10/2025;21/10/2025;18/10/2025;São Paulo;Atibaia;JundiaíCargas;Entregue;13.46;56.88
+PED-10770;11/10/2025;19/10/2025;16/10/2025;São Paulo;Atibaia;TotalLog;Entregue;31.08;100.11
+PED-10771;11/10/2025;18/10/2025;16/10/2025;Osasco;Atibaia;TotalLog;Entregue;45.41;122.41
+PED-10772;11/10/2025;15/10/2025;14/10/2025;Osasco;Atibaia;LogExpress;Entregue;18.8;68.18
+PED-10773;11/10/2025;20/10/2025;23/10/2025;São Paulo;Campinas;LogExpress;Atrasado;34.37;98.54
+PED-10774;11/10/2025;15/10/2025;12/10/2025;Osasco;Jundiaí;JundiaíCargas;Entregue;23.18;90.86
+PED-10775;12/10/2025;21/10/2025;20/10/2025;São Paulo;Jundiaí;LogExpress;Entregue;1.01;24.8
+PED-10776;12/10/2025;17/10/2025;15/10/2025;São Paulo;Santo André;JundiaíCargas;Entregue;7.09;40.18
+PED-10777;12/10/2025;19/10/2025;14/10/2025;São Paulo;Sorocaba;LogExpress;Entregue;16.5;51.83
+PED-10778;13/10/2025;21/10/2025;15/10/2025;Guarulhos;Campinas;TotalLog;Entregue;34.8;92.43
+PED-10779;13/10/2025;17/10/2025;16/10/2025;São Paulo;Campinas;LogExpress;Entregue;34.5;108.26
+PED-10780;13/10/2025;17/10/2025;21/10/2025;Osasco;Sorocaba;RápidoSP;Atrasado;35.81;99.56
+PED-10781;14/10/2025;22/10/2025;;Guarulhos;Sorocaba;TotalLog;Extraviado;35.57;87.99
+PED-10782;14/10/2025;21/10/2025;19/10/2025;Osasco;Atibaia;RápidoSP;Entregue;36.94;121.28
+PED-10783;15/10/2025;22/10/2025;19/10/2025;Osasco;Campinas;RápidoSP;Entregue;13.18;58.19
+PED-10784;15/10/2025;25/10/2025;29/10/2025;Osasco;Campinas;LogExpress;Atrasado;5.22;46.71
+PED-10785;15/10/2025;24/10/2025;;São Paulo;Sorocaba;LogExpress;Extraviado;3.41;48.6
+PED-10786;16/10/2025;21/10/2025;20/10/2025;Osasco;Sorocaba;RápidoSP;Entregue;16.98;82.72
+PED-10787;16/10/2025;26/10/2025;20/10/2025;Osasco;Jundiaí;TotalLog;Entregue;12.12;39.39
+PED-10788;16/10/2025;24/10/2025;18/10/2025;Osasco;Atibaia;LogExpress;Entregue;45.46;108.32
+PED-10789;16/10/2025;26/10/2025;17/10/2025;Guarulhos;Santo André;TotalLog;Entregue;49.84;116.2
+PED-10790;17/10/2025;20/10/2025;20/10/2025;São Paulo;Atibaia;LogExpress;Entregue;47.0;116.71
+PED-10791;17/10/2025;25/10/2025;31/10/2025;São Paulo;Campinas;RápidoSP;Atrasado;48.38;119.46
+PED-10792;18/10/2025;27/10/2025;;Guarulhos;Ribeirão Preto;RápidoSP;Extraviado;30.11;86.4
+PED-10793;18/10/2025;25/10/2025;25/10/2025;Osasco;Jundiaí;LogExpress;Entregue;37.54;100.94
+PED-10794;19/10/2025;22/10/2025;20/10/2025;Guarulhos;Ribeirão Preto;RápidoSP;Entregue;2.75;48.4
+PED-10795;19/10/2025;23/10/2025;;Guarulhos;Sorocaba;LogExpress;Extraviado;13.06;64.77
+PED-10796;19/10/2025;28/10/2025;30/10/2025;São Paulo;Santo André;JundiaíCargas;Atrasado;31.17;86.44
+PED-10797;19/10/2025;27/10/2025;21/10/2025;São Paulo;Campinas;LogExpress;Entregue;15.47;70.71
+PED-10798;20/10/2025;25/10/2025;;Guarulhos;Santo André;TotalLog;Extraviado;20.04;92.0
+PED-10799;21/10/2025;24/10/2025;24/10/2025;Osasco;Ribeirão Preto;RápidoSP;Entregue;18.86;89.54
+PED-10800;22/10/2025;27/10/2025;27/10/2025;São Paulo;Ribeirão Preto;LogExpress;Entregue;48.42;141.78
+PED-10801;22/10/2025;01/11/2025;24/10/2025;Osasco;Atibaia;LogExpress;Entregue;28.2;98.81
+PED-10802;22/10/2025;25/10/2025;25/10/2025;São Paulo;Jundiaí;LogExpress;Entregue;29.23;107.88
+PED-10803;23/10/2025;28/10/2025;26/10/2025;Osasco;Atibaia;TotalLog;Entregue;13.38;38.44
+PED-10804;23/10/2025;27/10/2025;01/11/2025;Osasco;Ribeirão Preto;RápidoSP;Atrasado;25.44;75.4
+PED-10805;23/10/2025;29/10/2025;24/10/2025;Osasco;Sorocaba;LogExpress;Entregue;46.55;140.65
+PED-10806;23/10/2025;31/10/2025;30/10/2025;Guarulhos;Jundiaí;RápidoSP;Entregue;43.96;133.64
+PED-10807;24/10/2025;01/11/2025;27/10/2025;São Paulo;Ribeirão Preto;TotalLog;Entregue;7.03;40.92
+PED-10808;24/10/2025;02/11/2025;26/10/2025;Osasco;Atibaia;JundiaíCargas;Entregue;16.21;60.27
+PED-10809;24/10/2025;27/10/2025;01/11/2025;Osasco;Santo André;TotalLog;Atrasado;26.76;89.39
+PED-10810;24/10/2025;29/10/2025;27/10/2025;Guarulhos;Jundiaí;JundiaíCargas;Entregue;7.52;52.0
+PED-10811;25/10/2025;04/11/2025;07/11/2025;Guarulhos;Jundiaí;LogExpress;Atrasado;6.28;42.07
+PED-10812;25/10/2025;02/11/2025;05/11/2025;Osasco;Sorocaba;RápidoSP;Atrasado;2.69;36.15
+PED-10813;26/10/2025;03/11/2025;03/11/2025;Osasco;Sorocaba;JundiaíCargas;Entregue;6.83;54.79
+PED-10814;26/10/2025;05/11/2025;03/11/2025;São Paulo;Santo André;RápidoSP;Entregue;43.65;107.64
+PED-10815;26/10/2025;30/10/2025;29/10/2025;São Paulo;Santo André;LogExpress;Entregue;41.82;113.72
+PED-10816;27/10/2025;01/11/2025;01/11/2025;Guarulhos;Jundiaí;RápidoSP;Entregue;37.52;97.87
+PED-10817;27/10/2025;04/11/2025;03/11/2025;Guarulhos;Campinas;JundiaíCargas;Entregue;46.35;137.3
+PED-10818;27/10/2025;05/11/2025;02/11/2025;São Paulo;Ribeirão Preto;LogExpress;Entregue;14.5;59.43
+PED-10819;29/10/2025;06/11/2025;30/10/2025;São Paulo;Ribeirão Preto;LogExpress;Entregue;43.91;122.84
+PED-10820;29/10/2025;05/11/2025;01/11/2025;São Paulo;Atibaia;JundiaíCargas;Entregue;30.84;106.2
+PED-10821;29/10/2025;04/11/2025;05/11/2025;São Paulo;Jundiaí;RápidoSP;Atrasado;38.2;120.52
+PED-10822;29/10/2025;02/11/2025;01/11/2025;Osasco;Ribeirão Preto;TotalLog;Entregue;13.56;67.38
+PED-10823;29/10/2025;01/11/2025;31/10/2025;Osasco;Ribeirão Preto;RápidoSP;Entregue;15.99;62.04
+PED-10824;29/10/2025;03/11/2025;09/11/2025;Osasco;Santo André;JundiaíCargas;Atrasado;44.69;135.53
+PED-10825;30/10/2025;09/11/2025;03/11/2025;Guarulhos;Jundiaí;RápidoSP;Entregue;16.12;56.37
+PED-10826;31/10/2025;09/11/2025;08/11/2025;São Paulo;Sorocaba;TotalLog;Entregue;49.73;121.95
+PED-10827;31/10/2025;04/11/2025;03/11/2025;Osasco;Atibaia;RápidoSP;Entregue;38.3;121.24
+PED-10828;31/10/2025;07/11/2025;04/11/2025;São Paulo;Jundiaí;LogExpress;Entregue;7.99;54.7
+PED-10829;01/11/2025;08/11/2025;02/11/2025;São Paulo;Sorocaba;RápidoSP;Entregue;42.73;108.12
+PED-10830;01/11/2025;11/11/2025;05/11/2025;Guarulhos;Atibaia;LogExpress;Entregue;33.04;97.38
+PED-10831;01/11/2025;07/11/2025;11/11/2025;Osasco;Atibaia;TotalLog;Atrasado;40.01;116.36
+PED-10832;01/11/2025;08/11/2025;08/11/2025;Osasco;Campinas;RápidoSP;Entregue;3.13;31.56
+PED-10833;02/11/2025;12/11/2025;08/11/2025;São Paulo;Sorocaba;LogExpress;Entregue;7.86;49.61
+PED-10834;02/11/2025;08/11/2025;13/11/2025;Osasco;Atibaia;TotalLog;Atrasado;11.88;40.08
+PED-10835;02/11/2025;06/11/2025;03/11/2025;Osasco;Ribeirão Preto;LogExpress;Entregue;2.28;52.52
+PED-10836;02/11/2025;07/11/2025;07/11/2025;São Paulo;Campinas;LogExpress;Entregue;13.38;38.49
+PED-10837;02/11/2025;06/11/2025;03/11/2025;São Paulo;Campinas;LogExpress;Entregue;35.45;116.86
+PED-10838;02/11/2025;12/11/2025;06/11/2025;Guarulhos;Jundiaí;RápidoSP;Entregue;22.1;89.78
+PED-10839;03/11/2025;08/11/2025;10/11/2025;Osasco;Ribeirão Preto;LogExpress;Atrasado;49.76;128.09
+PED-10840;04/11/2025;14/11/2025;05/11/2025;São Paulo;Ribeirão Preto;JundiaíCargas;Entregue;46.4;124.21
+PED-10841;05/11/2025;09/11/2025;15/11/2025;Osasco;Santo André;TotalLog;Atrasado;2.52;42.72
+PED-10842;05/11/2025;13/11/2025;11/11/2025;Osasco;Santo André;TotalLog;Entregue;18.15;64.25
+PED-10843;06/11/2025;14/11/2025;19/11/2025;São Paulo;Atibaia;RápidoSP;Atrasado;35.6;115.91
+PED-10844;06/11/2025;10/11/2025;07/11/2025;Osasco;Atibaia;RápidoSP;Entregue;24.52;83.0
+PED-10845;07/11/2025;14/11/2025;09/11/2025;Osasco;Atibaia;RápidoSP;Entregue;24.9;75.33
+PED-10846;07/11/2025;14/11/2025;12/11/2025;Guarulhos;Jundiaí;JundiaíCargas;Entregue;42.37;99.91
+PED-10847;07/11/2025;12/11/2025;11/11/2025;Osasco;Campinas;TotalLog;Entregue;43.41;132.58
+PED-10848;07/11/2025;12/11/2025;10/11/2025;Guarulhos;Santo André;TotalLog;Entregue;6.62;60.79
+PED-10849;07/11/2025;15/11/2025;12/11/2025;Guarulhos;Sorocaba;RápidoSP;Entregue;5.13;26.92
+PED-10850;07/11/2025;13/11/2025;13/11/2025;São Paulo;Santo André;RápidoSP;Entregue;43.47;139.39
+PED-10851;08/11/2025;12/11/2025;09/11/2025;Osasco;Campinas;LogExpress;Entregue;9.44;43.03
+PED-10852;08/11/2025;14/11/2025;10/11/2025;Osasco;Campinas;RápidoSP;Entregue;8.83;53.74
+PED-10853;09/11/2025;14/11/2025;21/11/2025;Guarulhos;Sorocaba;TotalLog;Atrasado;25.68;88.05
+PED-10854;09/11/2025;15/11/2025;;São Paulo;Jundiaí;LogExpress;Extraviado;14.0;63.71
+PED-10855;09/11/2025;19/11/2025;25/11/2025;Guarulhos;Santo André;JundiaíCargas;Atrasado;44.6;138.34
+PED-10856;10/11/2025;13/11/2025;11/11/2025;Guarulhos;Atibaia;JundiaíCargas;Entregue;29.49;111.14
+PED-10857;10/11/2025;18/11/2025;17/11/2025;Guarulhos;Ribeirão Preto;TotalLog;Entregue;29.39;79.89
+PED-10858;12/11/2025;20/11/2025;13/11/2025;Osasco;Jundiaí;LogExpress;Entregue;48.6;127.69
+PED-10859;12/11/2025;22/11/2025;15/11/2025;Osasco;Atibaia;RápidoSP;Entregue;26.54;87.11
+PED-10860;13/11/2025;18/11/2025;18/11/2025;Osasco;Santo André;RápidoSP;Entregue;28.75;77.91
+PED-10861;13/11/2025;17/11/2025;19/11/2025;Osasco;Sorocaba;LogExpress;Atrasado;21.11;58.68
+PED-10862;14/11/2025;18/11/2025;17/11/2025;São Paulo;Jundiaí;LogExpress;Entregue;4.3;41.81
+PED-10863;14/11/2025;21/11/2025;20/11/2025;Guarulhos;Santo André;JundiaíCargas;Entregue;38.53;108.97
+PED-10864;14/11/2025;23/11/2025;21/11/2025;São Paulo;Atibaia;RápidoSP;Entregue;34.01;117.21
+PED-10865;14/11/2025;24/11/2025;01/12/2025;Guarulhos;Santo André;TotalLog;Atrasado;44.42;107.01
+PED-10866;15/11/2025;24/11/2025;20/11/2025;Guarulhos;Ribeirão Preto;RápidoSP;Entregue;1.79;17.93
+PED-10867;15/11/2025;24/11/2025;20/11/2025;São Paulo;Campinas;JundiaíCargas;Entregue;34.22;103.98
+PED-10868;15/11/2025;19/11/2025;19/11/2025;São Paulo;Campinas;LogExpress;Entregue;34.19;83.08
+PED-10869;16/11/2025;21/11/2025;17/11/2025;Guarulhos;Santo André;RápidoSP;Entregue;20.01;79.58
+PED-10870;17/11/2025;25/11/2025;23/11/2025;Osasco;Atibaia;LogExpress;Entregue;29.72;91.96
+PED-10871;17/11/2025;21/11/2025;20/11/2025;Osasco;Campinas;RápidoSP;Entregue;47.59;117.41
+PED-10872;17/11/2025;27/11/2025;19/11/2025;Guarulhos;Santo André;TotalLog;Entregue;41.93;100.83
+PED-10873;17/11/2025;27/11/2025;23/11/2025;Guarulhos;Santo André;TotalLog;Entregue;8.11;65.55
+PED-10874;18/11/2025;26/11/2025;;São Paulo;Ribeirão Preto;RápidoSP;Extraviado;4.51;30.82
+PED-10875;18/11/2025;23/11/2025;21/11/2025;São Paulo;Atibaia;RápidoSP;Entregue;41.62;106.72
+PED-10876;18/11/2025;23/11/2025;21/11/2025;Osasco;Campinas;LogExpress;Entregue;33.15;106.0
+PED-10877;19/11/2025;24/11/2025;24/11/2025;Osasco;Atibaia;LogExpress;Entregue;22.98;61.06
+PED-10878;19/11/2025;28/11/2025;20/11/2025;São Paulo;Atibaia;JundiaíCargas;Entregue;47.78;112.64
+PED-10879;20/11/2025;23/11/2025;30/11/2025;Osasco;Ribeirão Preto;JundiaíCargas;Atrasado;29.91;93.55
+PED-10880;21/11/2025;25/11/2025;29/11/2025;Osasco;Atibaia;RápidoSP;Atrasado;0.79;18.53
+PED-10881;21/11/2025;26/11/2025;23/11/2025;São Paulo;Campinas;TotalLog;Entregue;48.5;146.24
+PED-10882;21/11/2025;28/11/2025;27/11/2025;Osasco;Campinas;JundiaíCargas;Entregue;32.98;95.69
+PED-10883;22/11/2025;27/11/2025;25/11/2025;São Paulo;Jundiaí;JundiaíCargas;Entregue;47.57;116.18
+PED-10884;22/11/2025;27/11/2025;26/11/2025;Guarulhos;Sorocaba;TotalLog;Entregue;16.58;49.25
+PED-10885;22/11/2025;30/11/2025;23/11/2025;Osasco;Santo André;LogExpress;Entregue;36.71;108.55
+PED-10886;23/11/2025;29/11/2025;28/11/2025;São Paulo;Sorocaba;LogExpress;Entregue;36.85;106.52
+PED-10887;23/11/2025;01/12/2025;04/12/2025;Osasco;Ribeirão Preto;LogExpress;Atrasado;47.89;113.32
+PED-10888;23/11/2025;30/11/2025;25/11/2025;Guarulhos;Atibaia;RápidoSP;Entregue;28.67;108.41
+PED-10889;24/11/2025;28/11/2025;28/11/2025;Guarulhos;Jundiaí;RápidoSP;Entregue;10.96;67.64
+PED-10890;24/11/2025;01/12/2025;07/12/2025;Guarulhos;Jundiaí;LogExpress;Atrasado;2.91;21.31
+PED-10891;24/11/2025;30/11/2025;27/11/2025;São Paulo;Ribeirão Preto;TotalLog;Entregue;32.36;86.18
+PED-10892;25/11/2025;02/12/2025;09/12/2025;São Paulo;Santo André;LogExpress;Atrasado;16.5;61.94
+PED-10893;25/11/2025;30/11/2025;30/11/2025;Guarulhos;Santo André;LogExpress;Entregue;3.25;45.21
+PED-10894;26/11/2025;03/12/2025;27/11/2025;Osasco;Sorocaba;RápidoSP;Entregue;4.0;37.39
+PED-10895;26/11/2025;30/11/2025;29/11/2025;Osasco;Sorocaba;TotalLog;Entregue;47.62;134.15
+PED-10896;27/11/2025;02/12/2025;02/12/2025;Guarulhos;Campinas;JundiaíCargas;Entregue;19.38;88.26
+PED-10897;27/11/2025;02/12/2025;29/11/2025;Guarulhos;Sorocaba;TotalLog;Entregue;20.24;76.0
+PED-10898;27/11/2025;02/12/2025;05/12/2025;Osasco;Sorocaba;RápidoSP;Atrasado;9.31;49.65
+PED-10899;28/11/2025;06/12/2025;02/12/2025;Guarulhos;Atibaia;JundiaíCargas;Entregue;48.27;138.76
+PED-10900;28/11/2025;01/12/2025;01/12/2025;Osasco;Ribeirão Preto;RápidoSP;Entregue;43.34;112.03
+PED-10901;29/11/2025;02/12/2025;06/12/2025;Guarulhos;Jundiaí;LogExpress;Atrasado;4.91;20.61
+PED-10902;29/11/2025;03/12/2025;02/12/2025;Osasco;Sorocaba;JundiaíCargas;Entregue;42.69;105.36
+PED-10903;29/11/2025;02/12/2025;02/12/2025;Guarulhos;Campinas;RápidoSP;Entregue;8.57;30.56
+PED-10904;30/11/2025;07/12/2025;07/12/2025;Osasco;Sorocaba;LogExpress;Entregue;39.08;108.04
+PED-10905;30/11/2025;06/12/2025;01/12/2025;Guarulhos;Atibaia;RápidoSP;Entregue;14.6;72.96
+PED-10906;30/11/2025;09/12/2025;14/12/2025;São Paulo;Santo André;TotalLog;Atrasado;37.75;110.31
+PED-10907;01/12/2025;04/12/2025;04/12/2025;Guarulhos;Atibaia;RápidoSP;Entregue;32.88;115.46
+PED-10908;01/12/2025;11/12/2025;05/12/2025;Osasco;Campinas;TotalLog;Entregue;6.47;58.76
+PED-10909;02/12/2025;09/12/2025;09/12/2025;Osasco;Santo André;RápidoSP;Entregue;24.8;80.49
+PED-10910;02/12/2025;09/12/2025;07/12/2025;Guarulhos;Jundiaí;LogExpress;Entregue;21.9;79.04
+PED-10911;02/12/2025;12/12/2025;03/12/2025;São Paulo;Campinas;TotalLog;Entregue;40.41;124.35
+PED-10912;03/12/2025;09/12/2025;11/12/2025;Guarulhos;Campinas;TotalLog;Atrasado;15.85;54.8
+PED-10913;04/12/2025;13/12/2025;08/12/2025;Osasco;Ribeirão Preto;LogExpress;Entregue;34.41;117.5
+PED-10914;04/12/2025;11/12/2025;09/12/2025;Osasco;Sorocaba;TotalLog;Entregue;7.0;42.95
+PED-10915;04/12/2025;14/12/2025;18/12/2025;Guarulhos;Campinas;RápidoSP;Atrasado;33.44;108.24
+PED-10916;04/12/2025;08/12/2025;06/12/2025;Guarulhos;Ribeirão Preto;RápidoSP;Entregue;41.69;126.01
+PED-10917;05/12/2025;08/12/2025;07/12/2025;Guarulhos;Jundiaí;TotalLog;Entregue;25.88;76.25
+PED-10918;05/12/2025;10/12/2025;07/12/2025;Osasco;Jundiaí;RápidoSP;Entregue;24.74;86.48
+PED-10919;05/12/2025;15/12/2025;06/12/2025;Guarulhos;Ribeirão Preto;TotalLog;Entregue;44.33;135.49
+PED-10920;05/12/2025;14/12/2025;10/12/2025;Osasco;Jundiaí;JundiaíCargas;Entregue;24.08;67.57
+PED-10921;05/12/2025;15/12/2025;08/12/2025;Guarulhos;Campinas;RápidoSP;Entregue;28.37;79.54
+PED-10922;06/12/2025;16/12/2025;09/12/2025;Osasco;Atibaia;TotalLog;Entregue;21.44;91.02
+PED-10923;06/12/2025;12/12/2025;07/12/2025;São Paulo;Campinas;RápidoSP;Entregue;37.95;119.02
+PED-10924;06/12/2025;14/12/2025;13/12/2025;Osasco;Sorocaba;JundiaíCargas;Entregue;40.64;113.66
+PED-10925;06/12/2025;11/12/2025;10/12/2025;São Paulo;Jundiaí;JundiaíCargas;Entregue;30.89;111.3
+PED-10926;06/12/2025;14/12/2025;14/12/2025;Osasco;Sorocaba;RápidoSP;Entregue;21.99;63.52
+PED-10927;07/12/2025;15/12/2025;08/12/2025;São Paulo;Ribeirão Preto;JundiaíCargas;Entregue;21.59;78.08
+PED-10928;07/12/2025;15/12/2025;13/12/2025;Guarulhos;Jundiaí;RápidoSP;Entregue;2.5;30.99
+PED-10929;08/12/2025;17/12/2025;;Osasco;Sorocaba;LogExpress;Extraviado;17.42;84.41
+PED-10930;08/12/2025;13/12/2025;20/12/2025;São Paulo;Santo André;LogExpress;Atrasado;23.44;68.81
+PED-10931;08/12/2025;16/12/2025;18/12/2025;São Paulo;Santo André;JundiaíCargas;Atrasado;11.6;69.18
+PED-10932;08/12/2025;12/12/2025;09/12/2025;São Paulo;Jundiaí;RápidoSP;Entregue;34.47;93.34
+PED-10933;09/12/2025;17/12/2025;13/12/2025;Osasco;Sorocaba;LogExpress;Entregue;8.18;52.3
+PED-10934;09/12/2025;15/12/2025;12/12/2025;Guarulhos;Campinas;TotalLog;Entregue;25.02;74.22
+PED-10935;09/12/2025;19/12/2025;11/12/2025;Guarulhos;Ribeirão Preto;TotalLog;Entregue;31.66;113.14
+PED-10936;09/12/2025;13/12/2025;12/12/2025;Osasco;Atibaia;TotalLog;Entregue;26.47;93.51
+PED-10937;09/12/2025;16/12/2025;16/12/2025;Osasco;Campinas;RápidoSP;Entregue;14.89;70.17
+PED-10938;09/12/2025;19/12/2025;14/12/2025;Osasco;Campinas;JundiaíCargas;Entregue;22.15;65.21
+PED-10939;10/12/2025;16/12/2025;15/12/2025;Osasco;Atibaia;RápidoSP;Entregue;45.41;125.1
+PED-10940;10/12/2025;15/12/2025;13/12/2025;Osasco;Atibaia;JundiaíCargas;Entregue;24.14;100.39
+PED-10941;10/12/2025;14/12/2025;12/12/2025;São Paulo;Sorocaba;RápidoSP;Entregue;7.86;48.62
+PED-10942;10/12/2025;13/12/2025;12/12/2025;São Paulo;Atibaia;RápidoSP;Entregue;6.83;64.16
+PED-10943;11/12/2025;18/12/2025;13/12/2025;Guarulhos;Santo André;RápidoSP;Entregue;45.19;107.96
+PED-10944;11/12/2025;20/12/2025;18/12/2025;Osasco;Atibaia;LogExpress;Entregue;42.16;102.74
+PED-10945;12/12/2025;21/12/2025;16/12/2025;São Paulo;Ribeirão Preto;TotalLog;Entregue;26.39;96.08
+PED-10946;12/12/2025;18/12/2025;14/12/2025;São Paulo;Campinas;TotalLog;Entregue;15.13;54.81
+PED-10947;13/12/2025;18/12/2025;14/12/2025;São Paulo;Ribeirão Preto;RápidoSP;Entregue;2.86;34.04
+PED-10948;13/12/2025;21/12/2025;16/12/2025;Guarulhos;Ribeirão Preto;TotalLog;Entregue;4.29;29.12
+PED-10949;13/12/2025;21/12/2025;14/12/2025;Osasco;Ribeirão Preto;TotalLog;Entregue;2.73;35.98
+PED-10950;14/12/2025;20/12/2025;20/12/2025;Guarulhos;Jundiaí;JundiaíCargas;Entregue;5.83;40.73
+PED-10951;14/12/2025;19/12/2025;19/12/2025;São Paulo;Santo André;LogExpress;Entregue;21.53;58.14
+PED-10952;15/12/2025;25/12/2025;25/12/2025;São Paulo;Atibaia;TotalLog;Entregue;5.18;48.66
+PED-10953;15/12/2025;25/12/2025;;Guarulhos;Ribeirão Preto;RápidoSP;Extraviado;33.21;109.73
+PED-10954;16/12/2025;26/12/2025;17/12/2025;São Paulo;Atibaia;RápidoSP;Entregue;28.64;85.39
+PED-10955;16/12/2025;23/12/2025;17/12/2025;Guarulhos;Jundiaí;JundiaíCargas;Entregue;13.04;67.22
+PED-10956;16/12/2025;26/12/2025;23/12/2025;São Paulo;Sorocaba;TotalLog;Entregue;13.12;71.78
+PED-10957;17/12/2025;20/12/2025;19/12/2025;Osasco;Campinas;RápidoSP;Entregue;4.55;35.42
+PED-10958;17/12/2025;21/12/2025;19/12/2025;São Paulo;Jundiaí;RápidoSP;Entregue;25.42;63.81
+PED-10959;18/12/2025;27/12/2025;19/12/2025;Osasco;Sorocaba;LogExpress;Entregue;6.14;27.48
+PED-10960;18/12/2025;28/12/2025;20/12/2025;Guarulhos;Campinas;TotalLog;Entregue;33.25;116.51
+PED-10961;18/12/2025;24/12/2025;21/12/2025;Guarulhos;Ribeirão Preto;LogExpress;Entregue;9.39;42.8
+PED-10962;18/12/2025;24/12/2025;24/12/2025;Osasco;Atibaia;LogExpress;Entregue;9.52;59.94
+PED-10963;19/12/2025;27/12/2025;21/12/2025;Osasco;Sorocaba;TotalLog;Entregue;19.95;71.29
+PED-10964;19/12/2025;22/12/2025;22/12/2025;Osasco;Jundiaí;LogExpress;Entregue;4.62;22.43
+PED-10965;19/12/2025;22/12/2025;20/12/2025;Guarulhos;Santo André;TotalLog;Entregue;43.9;124.13
+PED-10966;20/12/2025;27/12/2025;24/12/2025;Osasco;Ribeirão Preto;TotalLog;Entregue;15.23;51.67
+PED-10967;20/12/2025;30/12/2025;24/12/2025;Osasco;Jundiaí;TotalLog;Entregue;29.57;110.1
+PED-10968;20/12/2025;30/12/2025;29/12/2025;São Paulo;Jundiaí;LogExpress;Entregue;23.02;63.95
+PED-10969;20/12/2025;27/12/2025;;São Paulo;Santo André;TotalLog;Extraviado;33.68;113.55
+PED-10970;20/12/2025;23/12/2025;22/12/2025;Osasco;Ribeirão Preto;TotalLog;Entregue;31.38;109.56
+PED-10971;21/12/2025;25/12/2025;22/12/2025;Guarulhos;Sorocaba;RápidoSP;Entregue;13.62;45.43
+PED-10972;22/12/2025;31/12/2025;26/12/2025;Guarulhos;Ribeirão Preto;LogExpress;Entregue;48.35;112.26
+PED-10973;23/12/2025;28/12/2025;27/12/2025;São Paulo;Ribeirão Preto;LogExpress;Entregue;43.63;105.64
+PED-10974;23/12/2025;30/12/2025;24/12/2025;São Paulo;Sorocaba;TotalLog;Entregue;9.77;42.28
+PED-10975;23/12/2025;31/12/2025;25/12/2025;Osasco;Jundiaí;RápidoSP;Entregue;9.66;51.67
+PED-10976;23/12/2025;01/01/2026;08/01/2026;Osasco;Jundiaí;RápidoSP;Atrasado;37.48;104.34
+PED-10977;23/12/2025;31/12/2025;31/12/2025;Guarulhos;Sorocaba;JundiaíCargas;Entregue;30.4;76.94
+PED-10978;23/12/2025;26/12/2025;24/12/2025;São Paulo;Ribeirão Preto;JundiaíCargas;Entregue;43.64;132.19
+PED-10979;24/12/2025;02/01/2026;26/12/2025;São Paulo;Santo André;RápidoSP;Entregue;5.76;49.19
+PED-10980;24/12/2025;27/12/2025;25/12/2025;Osasco;Campinas;LogExpress;Entregue;26.95;72.73
+PED-10981;25/12/2025;31/12/2025;06/01/2026;Osasco;Santo André;LogExpress;Atrasado;0.79;25.98
+PED-10982;26/12/2025;03/01/2026;31/12/2025;Osasco;Atibaia;TotalLog;Entregue;6.28;31.85
+PED-10983;26/12/2025;02/01/2026;27/12/2025;Osasco;Ribeirão Preto;JundiaíCargas;Entregue;9.0;30.28
+PED-10984;26/12/2025;30/12/2025;28/12/2025;São Paulo;Jundiaí;RápidoSP;Entregue;24.12;87.65
+PED-10985;26/12/2025;04/01/2026;11/01/2026;Osasco;Sorocaba;TotalLog;Atrasado;34.74;91.6
+PED-10986;26/12/2025;05/01/2026;01/01/2026;São Paulo;Santo André;LogExpress;Entregue;43.5;129.22
+PED-10987;26/12/2025;02/01/2026;27/12/2025;Osasco;Atibaia;TotalLog;Entregue;48.31;144.91
+PED-10988;27/12/2025;31/12/2025;28/12/2025;São Paulo;Atibaia;TotalLog;Entregue;30.29;106.07
+PED-10989;27/12/2025;01/01/2026;29/12/2025;Guarulhos;Jundiaí;RápidoSP;Entregue;24.59;87.28
+PED-10990;28/12/2025;01/01/2026;30/12/2025;São Paulo;Campinas;TotalLog;Entregue;31.12;104.01
+PED-10991;28/12/2025;06/01/2026;05/01/2026;Osasco;Campinas;RápidoSP;Entregue;48.71;148.17
+PED-10992;28/12/2025;05/01/2026;;São Paulo;Atibaia;JundiaíCargas;Extraviado;18.36;64.18
+PED-10993;29/12/2025;06/01/2026;31/12/2025;São Paulo;Santo André;TotalLog;Entregue;33.85;93.42
+PED-10994;29/12/2025;06/01/2026;04/01/2026;São Paulo;Atibaia;LogExpress;Entregue;34.67;84.9
+PED-10995;29/12/2025;03/01/2026;02/01/2026;Guarulhos;Ribeirão Preto;LogExpress;Entregue;20.05;52.29
+PED-10996;29/12/2025;04/01/2026;02/01/2026;Guarulhos;Jundiaí;TotalLog;Entregue;15.48;73.4
+PED-10997;31/12/2025;09/01/2026;07/01/2026;Guarulhos;Jundiaí;JundiaíCargas;Entregue;6.69;54.73
+PED-10998;01/01/2026;04/01/2026;03/01/2026;Osasco;Campinas;LogExpress;Entregue;1.19;49.65
+PED-10999;01/01/2026;04/01/2026;04/01/2026;Guarulhos;Atibaia;JundiaíCargas;Entregue;6.04;37.67
